@@ -1,0 +1,13 @@
+[
+ {"id":"fort_kochi_beach","name":"Fort Kochi Beach","lat":9.9640,"lon":76.2429,"tags":["nature","photography","relaxation","views"],"open":"06:00","close":"20:00","duration":75,"cost":0,"rating":4.4,"mainstream":true},
+ {"id":"chinese_fishing_nets","name":"Chinese Fishing Nets","lat":9.9669,"lon":76.2423,"tags":["heritage","photography","culture","local"],"open":"06:00","close":"18:00","duration":60,"cost":0,"rating":4.5,"mainstream":true},
+ {"id":"jewish_synagogue","name":"Paradesi Synagogue (Jew Town)","lat":9.9572,"lon":76.2587,"tags":["heritage","history","culture"],"open":"10:00","close":"17:00","duration":60,"cost":5,"rating":4.4,"mainstream":true},
+ {"id":"mattancherry_palace","name":"Mattancherry Palace (Dutch Palace)","lat":9.9573,"lon":76.2596,"tags":["heritage","history","art"],"open":"10:00","close":"17:00","duration":75,"cost":5,"rating":4.3,"mainstream":true},
+ {"id":"hill_palace_tripunithura","name":"Hill Palace Museum","lat":9.9562,"lon":76.3343,"tags":["heritage","history","art"],"open":"09:00","close":"17:00","duration":90,"cost":30,"rating":4.2,"mainstream":false},
+ {"id":"kathakali_performance","name":"Kerala Kathakali Centre","lat":9.9657,"lon":76.2439,"tags":["culture","art","entertainment"],"open":"17:00","close":"20:00","duration":120,"cost":350,"rating":4.5,"mainstream":false},
+ {"id":"marine_drive_kochi","name":"Marine Drive Kochi","lat":9.9775,"lon":76.2791,"tags":["views","relaxation","nightlife","photography"],"open":"00:00","close":"23:59","duration":60,"cost":0,"rating":4.3,"mainstream":false},
+ {"id":"indo_portuguese_museum","name":"Indo-Portuguese Museum","lat":9.9601,"lon":76.2444,"tags":["history","culture","art"],"open":"10:00","close":"18:00","duration":60,"cost":25,"rating":4.2,"mainstream":false},
+ {"id":"backwaters_cruise","name":"Kerala Backwaters Day Cruise","lat":9.5916,"lon":76.5222,"tags":["nature","relaxation","photography","views"],"open":"09:00","close":"17:00","duration":360,"cost":1500,"rating":4.8,"mainstream":true},
+ {"id":"vypeen_island","name":"Vypeen Island Beach","lat":10.0451,"lon":76.2103,"tags":["nature","relaxation","photography","hidden"],"open":"06:00","close":"19:00","duration":90,"cost":0,"rating":4.3,"mainstream":false},
+ {"id":"spice_market_ernakulam","name":"Broadway Spice Market","lat":9.9889,"lon":76.2857,"tags":["shopping","food","local","culture"],"open":"09:00","close":"20:00","duration":75,"cost":300,"rating":4.2,"mainstream":false}
+]

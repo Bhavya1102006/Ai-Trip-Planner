@@ -1,0 +1,12 @@
+[
+ {"id":"golden_temple","name":"Golden Temple (Harmandir Sahib)","lat":31.6200,"lon":74.8765,"tags":["spiritual","heritage","photography","architecture"],"open":"02:00","close":"23:59","duration":120,"cost":0,"rating":4.9,"mainstream":true},
+ {"id":"jallianwala_bagh","name":"Jallianwala Bagh","lat":31.6215,"lon":74.8741,"tags":["heritage","history","culture"],"open":"06:30","close":"19:30","duration":60,"cost":0,"rating":4.5,"mainstream":true},
+ {"id":"wagah_border","name":"Wagah Border Ceremony","lat":31.6044,"lon":74.5697,"tags":["culture","photography","heritage"],"open":"15:30","close":"18:30","duration":120,"cost":0,"rating":4.7,"mainstream":true},
+ {"id":"partition_museum","name":"Partition Museum","lat":31.6184,"lon":74.8783,"tags":["history","culture","art"],"open":"10:00","close":"18:00","duration":90,"cost":200,"rating":4.6,"mainstream":false},
+ {"id":"durgiana_temple","name":"Durgiana Temple","lat":31.6320,"lon":74.8780,"tags":["spiritual","architecture","heritage"],"open":"05:00","close":"21:00","duration":60,"cost":0,"rating":4.5,"mainstream":false},
+ {"id":"hall_bazaar","name":"Hall Bazaar","lat":31.6197,"lon":74.8783,"tags":["shopping","local","food","street food"],"open":"10:00","close":"21:00","duration":90,"cost":500,"rating":4.2,"mainstream":false},
+ {"id":"gobindgarh_fort","name":"Gobindgarh Fort","lat":31.6174,"lon":74.8711,"tags":["heritage","history","entertainment"],"open":"10:00","close":"22:00","duration":120,"cost":300,"rating":4.2,"mainstream":false},
+ {"id":"phoola_da_lal_haveli","name":"Phoola da Lal Haveli","lat":31.6183,"lon":74.8776,"tags":["heritage","history","hidden"],"open":"09:00","close":"17:00","duration":60,"cost":0,"rating":4.3,"mainstream":false},
+ {"id":"gurudwara_baba_atal","name":"Gurudwara Baba Atal Rai","lat":31.6195,"lon":74.8768,"tags":["spiritual","architecture","photography"],"open":"04:00","close":"23:00","duration":45,"cost":0,"rating":4.6,"mainstream":false},
+ {"id":"amritsar_langar","name":"Community Kitchen (Langar) at Golden Temple","lat":31.6200,"lon":74.8765,"tags":["food","spiritual","local","culture"],"open":"05:00","close":"23:59","duration":75,"cost":0,"rating":4.8,"mainstream":false}
+]

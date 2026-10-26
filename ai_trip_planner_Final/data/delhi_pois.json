@@ -1,0 +1,22 @@
+[
+ {"id":"qutub_minar","name":"Qutub Minar","lat":28.5245,"lon":77.1855,"tags":["heritage","history","photography"],"open":"07:00","close":"17:00","duration":90,"cost":600,"rating":4.6,"mainstream":true},
+ {"id":"red_fort","name":"Red Fort","lat":28.6562,"lon":77.2410,"tags":["heritage","history","architecture"],"open":"09:30","close":"16:30","duration":120,"cost":600,"rating":4.4,"mainstream":true},
+ {"id":"india_gate","name":"India Gate","lat":28.6129,"lon":77.2295,"tags":["heritage","photography","views"],"open":"00:00","close":"23:59","duration":60,"cost":0,"rating":4.5,"mainstream":true},
+ {"id":"humayuns_tomb","name":"Humayun's Tomb","lat":28.5933,"lon":77.2507,"tags":["heritage","history","architecture"],"open":"07:00","close":"17:00","duration":90,"cost":600,"rating":4.6,"mainstream":true},
+ {"id":"lotus_temple","name":"Lotus Temple","lat":28.5535,"lon":77.2588,"tags":["spiritual","architecture","photography"],"open":"09:00","close":"17:30","duration":60,"cost":0,"rating":4.5,"mainstream":true},
+ {"id":"akshardham","name":"Akshardham Temple","lat":28.6127,"lon":77.2773,"tags":["spiritual","art","architecture"],"open":"09:30","close":"18:30","duration":180,"cost":170,"rating":4.7,"mainstream":true},
+ {"id":"chandni_chowk","name":"Chandni Chowk","lat":28.6506,"lon":77.2303,"tags":["shopping","food","culture"],"open":"09:00","close":"20:00","duration":120,"cost":500,"rating":4.2,"mainstream":true},
+ {"id":"lodi_garden","name":"Lodi Garden","lat":28.5931,"lon":77.2197,"tags":["nature","heritage","relaxation"],"open":"06:00","close":"20:00","duration":60,"cost":0,"rating":4.5,"mainstream":false},
+ {"id":"national_museum","name":"National Museum Delhi","lat":28.6115,"lon":77.2194,"tags":["art","history","culture"],"open":"10:00","close":"18:00","duration":120,"cost":300,"rating":4.3,"mainstream":true},
+ {"id":"hauz_khas","name":"Hauz Khas Village","lat":28.5494,"lon":77.2001,"tags":["culture","food","nightlife","art"],"open":"11:00","close":"23:00","duration":120,"cost":600,"rating":4.2,"mainstream":false},
+ {"id":"jama_masjid","name":"Jama Masjid","lat":28.6507,"lon":77.2334,"tags":["spiritual","heritage","photography"],"open":"07:00","close":"12:00","duration":60,"cost":0,"rating":4.5,"mainstream":true},
+ {"id":"gurudwara_bangla_sahib","name":"Gurudwara Bangla Sahib","lat":28.6265,"lon":77.2091,"tags":["spiritual","local"],"open":"04:00","close":"22:00","duration":60,"cost":0,"rating":4.7,"mainstream":false},
+ {"id":"sarojini_nagar","name":"Sarojini Nagar Market","lat":28.5773,"lon":77.1990,"tags":["shopping","local"],"open":"10:00","close":"21:00","duration":90,"cost":400,"rating":4.1,"mainstream":false},
+ {"id":"garden_of_five_senses","name":"Garden of Five Senses","lat":28.5198,"lon":77.1838,"tags":["nature","art","relaxation","photography"],"open":"09:00","close":"18:00","duration":90,"cost":50,"rating":4.2,"mainstream":false},
+ {"id":"dilli_haat","name":"Dilli Haat","lat":28.5753,"lon":77.2060,"tags":["culture","shopping","food","art"],"open":"10:00","close":"22:00","duration":120,"cost":30,"rating":4.2,"mainstream":false},
+ {"id":"connaught_place","name":"Connaught Place","lat":28.6315,"lon":77.2167,"tags":["shopping","food","nightlife","culture"],"open":"10:00","close":"22:00","duration":90,"cost":700,"rating":4.1,"mainstream":true},
+ {"id":"purana_qila","name":"Purana Qila","lat":28.6096,"lon":77.2430,"tags":["heritage","history","photography"],"open":"07:00","close":"17:00","duration":75,"cost":300,"rating":4.3,"mainstream":false},
+ {"id":"rail_museum","name":"National Rail Museum","lat":28.5960,"lon":77.1796,"tags":["history","culture","science"],"open":"10:00","close":"17:00","duration":90,"cost":100,"rating":4.2,"mainstream":false},
+ {"id":"agrasen_ki_baoli","name":"Agrasen Ki Baoli","lat":28.6269,"lon":77.2197,"tags":["heritage","photography","hidden"],"open":"09:00","close":"18:00","duration":45,"cost":0,"rating":4.4,"mainstream":false},
+ {"id":"majnu_ka_tilla","name":"Majnu Ka Tilla (Tibetan Colony)","lat":28.7023,"lon":77.2322,"tags":["food","culture","local"],"open":"09:00","close":"20:00","duration":90,"cost":300,"rating":4.3,"mainstream":false}
+]

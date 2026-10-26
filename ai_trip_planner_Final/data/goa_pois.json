@@ -1,0 +1,17 @@
+[
+ {"id":"calangute_beach","name":"Calangute Beach","lat":15.5438,"lon":73.7547,"tags":["nature","relaxation","nightlife","food"],"open":"06:00","close":"22:00","duration":120,"cost":0,"rating":4.2,"mainstream":true},
+ {"id":"basilica_bom_jesus","name":"Basilica of Bom Jesus","lat":15.5009,"lon":73.9115,"tags":["heritage","spiritual","history","photography"],"open":"09:00","close":"18:30","duration":75,"cost":0,"rating":4.6,"mainstream":true},
+ {"id":"se_cathedral","name":"Se Cathedral Old Goa","lat":15.5028,"lon":73.9121,"tags":["heritage","history","architecture","spiritual"],"open":"09:00","close":"18:00","duration":60,"cost":0,"rating":4.4,"mainstream":true},
+ {"id":"dudhsagar_falls","name":"Dudhsagar Falls","lat":15.3139,"lon":74.3159,"tags":["nature","photography","adventure"],"open":"07:00","close":"17:00","duration":240,"cost":400,"rating":4.7,"mainstream":true},
+ {"id":"fort_aguada","name":"Fort Aguada","lat":15.4955,"lon":73.7746,"tags":["heritage","views","photography","history"],"open":"09:30","close":"18:00","duration":75,"cost":0,"rating":4.4,"mainstream":true},
+ {"id":"anjuna_flea_market","name":"Anjuna Flea Market","lat":15.5778,"lon":73.7428,"tags":["shopping","culture","local"],"open":"08:00","close":"18:00","duration":120,"cost":400,"rating":4.2,"mainstream":true},
+ {"id":"palolem_beach","name":"Palolem Beach","lat":14.9992,"lon":74.0234,"tags":["nature","relaxation","nightlife","photography"],"open":"06:00","close":"22:00","duration":180,"cost":0,"rating":4.6,"mainstream":true},
+ {"id":"spice_plantation","name":"Savoi Spice Plantation","lat":15.4339,"lon":74.0490,"tags":["nature","local","culture","hidden"],"open":"09:00","close":"17:30","duration":120,"cost":400,"rating":4.5,"mainstream":false},
+ {"id":"chapora_fort","name":"Chapora Fort","lat":15.6024,"lon":73.7345,"tags":["heritage","views","photography"],"open":"09:30","close":"17:30","duration":60,"cost":0,"rating":4.4,"mainstream":false},
+ {"id":"vagator_beach","name":"Vagator Beach","lat":15.6024,"lon":73.7432,"tags":["nature","nightlife","relaxation","photography"],"open":"06:00","close":"22:00","duration":90,"cost":0,"rating":4.5,"mainstream":false},
+ {"id":"baga_beach","name":"Baga Beach","lat":15.5573,"lon":73.7517,"tags":["nature","nightlife","food","relaxation"],"open":"06:00","close":"23:00","duration":120,"cost":0,"rating":4.2,"mainstream":true},
+ {"id":"panaji_fontainhas","name":"Fontainhas Latin Quarter Panaji","lat":15.4947,"lon":73.8330,"tags":["heritage","photography","culture","hidden"],"open":"09:00","close":"19:00","duration":75,"cost":0,"rating":4.5,"mainstream":false},
+ {"id":"cabo_de_rama","name":"Cabo de Rama Fort","lat":14.9280,"lon":73.9983,"tags":["heritage","views","photography","hidden"],"open":"09:00","close":"18:00","duration":90,"cost":0,"rating":4.3,"mainstream":false},
+ {"id":"arpora_night_market","name":"Arpora Night Bazaar","lat":15.5697,"lon":73.7620,"tags":["shopping","nightlife","food","culture"],"open":"18:00","close":"23:00","duration":120,"cost":300,"rating":4.3,"mainstream":false},
+ {"id":"tito_lane","name":"Tito's Lane Baga (nightlife)","lat":15.5569,"lon":73.7535,"tags":["nightlife","food","entertainment"],"open":"21:00","close":"03:00","duration":180,"cost":800,"rating":4.1,"mainstream":true}
+]

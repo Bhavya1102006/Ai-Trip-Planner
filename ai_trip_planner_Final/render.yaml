@@ -1,0 +1,25 @@
+# Render blueprint. Create a PostgreSQL database in the Render dashboard, then paste its
+# connection string into DATABASE_URL. Keys are entered in the dashboard (sync: false),
+# never committed.
+services:
+  - type: web
+    name: ai-trip-planner-api
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn tripplanner.server:app --bind 0.0.0.0:$PORT --workers 2 --timeout 60
+    healthCheckPath: /health
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: GOOGLE_PLACES_API_KEY
+        sync: false
+      - key: OPENTRIPMAP_API_KEY
+        sync: false
+      - key: DATABASE_URL
+        sync: false
+      - key: API_AUTH_TOKEN
+        sync: false
+      - key: ALLOWED_ORIGIN
+        sync: false

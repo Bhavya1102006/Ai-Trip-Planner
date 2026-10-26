@@ -1,0 +1,14 @@
+[
+ {"id":"marina_beach","name":"Marina Beach","lat":13.0500,"lon":80.2824,"tags":["nature","relaxation","photography","local"],"open":"05:00","close":"21:00","duration":90,"cost":0,"rating":4.4,"mainstream":true},
+ {"id":"kapaleeshwarar","name":"Kapaleeshwarar Temple","lat":13.0339,"lon":80.2699,"tags":["spiritual","heritage","architecture"],"open":"05:30","close":"21:00","duration":60,"cost":0,"rating":4.6,"mainstream":true},
+ {"id":"fort_st_george","name":"Fort St. George & Museum","lat":13.0799,"lon":80.2884,"tags":["heritage","history","art"],"open":"09:00","close":"17:00","duration":90,"cost":15,"rating":4.2,"mainstream":true},
+ {"id":"mahabalipuram","name":"Mahabalipuram Shore Temple","lat":12.6160,"lon":80.1927,"tags":["heritage","history","photography","nature"],"open":"06:00","close":"18:00","duration":180,"cost":600,"rating":4.6,"mainstream":true},
+ {"id":"san_thome","name":"San Thome Cathedral","lat":13.0341,"lon":80.2779,"tags":["spiritual","heritage","history"],"open":"06:00","close":"20:00","duration":45,"cost":0,"rating":4.5,"mainstream":false},
+ {"id":"government_museum","name":"Government Museum Chennai","lat":13.0659,"lon":80.2632,"tags":["history","art","culture"],"open":"09:30","close":"17:00","duration":120,"cost":30,"rating":4.2,"mainstream":false},
+ {"id":"guindy_national_park","name":"Guindy National Park","lat":12.9980,"lon":80.2315,"tags":["nature","relaxation","photography"],"open":"08:00","close":"17:30","duration":120,"cost":30,"rating":4.2,"mainstream":false},
+ {"id":"pondy_bazaar","name":"Pondy Bazaar","lat":13.0440,"lon":80.2341,"tags":["shopping","local","food"],"open":"10:00","close":"21:00","duration":90,"cost":500,"rating":4.1,"mainstream":false},
+ {"id":"santhome_beach","name":"Santhome Beach","lat":13.0288,"lon":80.2791,"tags":["nature","photography","relaxation"],"open":"05:00","close":"21:00","duration":60,"cost":0,"rating":4.1,"mainstream":false},
+ {"id":"dakshinachitra","name":"DakshinaChitra Heritage Museum","lat":12.8936,"lon":80.2277,"tags":["culture","art","heritage","hidden"],"open":"10:00","close":"18:00","duration":150,"cost":300,"rating":4.5,"mainstream":false},
+ {"id":"arignar_anna_zoo","name":"Arignar Anna Zoological Park","lat":12.9697,"lon":80.1001,"tags":["nature","relaxation","local"],"open":"08:30","close":"17:30","duration":180,"cost":80,"rating":4.3,"mainstream":false},
+ {"id":"mylapore_tank","name":"Mylapore Tank (Kapali)","lat":13.0349,"lon":80.2698,"tags":["spiritual","photography","local","hidden"],"open":"05:00","close":"21:00","duration":45,"cost":0,"rating":4.4,"mainstream":false}
+]

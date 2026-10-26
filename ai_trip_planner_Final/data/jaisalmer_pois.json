@@ -1,0 +1,10 @@
+[
+ {"id":"jaisalmer_fort","name":"Jaisalmer Fort (Sonar Qila)","lat":26.9124,"lon":70.9126,"tags":["heritage","history","photography","architecture"],"open":"06:00","close":"20:00","duration":150,"cost":100,"rating":4.7,"mainstream":true},
+ {"id":"sam_sand_dunes","name":"Sam Sand Dunes (Desert Safari & Sunset)","lat":26.8286,"lon":70.5050,"tags":["nature","adventure","photography","views","nightlife"],"open":"15:00","close":"22:00","duration":240,"cost":700,"rating":4.6,"mainstream":true},
+ {"id":"patwon_ki_haveli","name":"Patwon Ki Haveli","lat":26.9161,"lon":70.9139,"tags":["heritage","history","art","architecture"],"open":"09:00","close":"18:30","duration":75,"cost":100,"rating":4.5,"mainstream":true},
+ {"id":"gadisar_lake","name":"Gadisar Lake","lat":26.9080,"lon":70.9230,"tags":["nature","photography","views","relaxation"],"open":"06:00","close":"21:00","duration":60,"cost":0,"rating":4.5,"mainstream":true},
+ {"id":"kuldhara_village","name":"Kuldhara Abandoned Ghost Village","lat":26.8711,"lon":70.7850,"tags":["heritage","history","hidden","photography"],"open":"08:00","close":"18:00","duration":75,"cost":50,"rating":4.3,"mainstream":false},
+ {"id":"bada_bagh","name":"Bada Bagh Cenotaphs","lat":26.9583,"lon":70.8872,"tags":["heritage","photography","views","history"],"open":"08:00","close":"18:30","duration":60,"cost":100,"rating":4.4,"mainstream":false},
+ {"id":"desert_national_park","name":"Desert National Park (Great Indian Bustard)","lat":26.7000,"lon":70.5500,"tags":["nature","wildlife","photography"],"open":"07:00","close":"17:00","duration":180,"cost":100,"rating":4.2,"mainstream":false},
+ {"id":"jaisalmer_bazaar","name":"Sadar Bazaar & Manak Chowk","lat":26.9140,"lon":70.9150,"tags":["shopping","local","handicraft","food"],"open":"10:00","close":"21:00","duration":90,"cost":400,"rating":4.3,"mainstream":false}
+]

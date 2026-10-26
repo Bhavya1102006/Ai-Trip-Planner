@@ -1,0 +1,14 @@
+[
+ {"id":"charminar","name":"Charminar","lat":17.3616,"lon":78.4747,"tags":["heritage","history","photography","architecture"],"open":"09:00","close":"17:30","duration":75,"cost":25,"rating":4.5,"mainstream":true},
+ {"id":"golconda_fort","name":"Golconda Fort","lat":17.3833,"lon":78.4011,"tags":["heritage","history","views","photography"],"open":"08:00","close":"17:30","duration":150,"cost":200,"rating":4.5,"mainstream":true},
+ {"id":"hussain_sagar","name":"Hussain Sagar Lake & Buddha Statue","lat":17.4239,"lon":78.4738,"tags":["photography","views","relaxation","nature"],"open":"07:00","close":"21:00","duration":90,"cost":60,"rating":4.4,"mainstream":true},
+ {"id":"salar_jung_museum","name":"Salar Jung Museum","lat":17.3713,"lon":78.4804,"tags":["art","history","culture"],"open":"10:00","close":"17:00","duration":120,"cost":150,"rating":4.5,"mainstream":true},
+ {"id":"laad_bazaar","name":"Laad Bazaar (Bangle Market)","lat":17.3613,"lon":78.4737,"tags":["shopping","local","culture"],"open":"10:00","close":"21:00","duration":75,"cost":500,"rating":4.3,"mainstream":false},
+ {"id":"birla_mandir_hyd","name":"Birla Mandir Hyderabad","lat":17.4062,"lon":78.4691,"tags":["spiritual","architecture","views","photography"],"open":"07:00","close":"12:00","duration":60,"cost":0,"rating":4.5,"mainstream":false},
+ {"id":"ramoji_film_city","name":"Ramoji Film City","lat":17.2543,"lon":78.6806,"tags":["entertainment","culture","art"],"open":"09:00","close":"17:30","duration":360,"cost":1150,"rating":4.4,"mainstream":true},
+ {"id":"nehru_zoological_park","name":"Nehru Zoological Park","lat":17.3496,"lon":78.4513,"tags":["nature","relaxation","local"],"open":"08:30","close":"17:30","duration":180,"cost":80,"rating":4.3,"mainstream":false},
+ {"id":"paradise_biryani","name":"Paradise Restaurant (Biryani)","lat":17.4376,"lon":78.4826,"tags":["food","local","street food"],"open":"12:00","close":"23:30","duration":60,"cost":400,"rating":4.5,"mainstream":true},
+ {"id":"qutb_shahi_tombs","name":"Qutb Shahi Tombs","lat":17.3937,"lon":78.3983,"tags":["heritage","history","photography"],"open":"09:30","close":"17:30","duration":90,"cost":100,"rating":4.3,"mainstream":false},
+ {"id":"khilwat_mahal","name":"Chowmahalla Palace","lat":17.3590,"lon":78.4697,"tags":["heritage","history","architecture"],"open":"10:00","close":"17:00","duration":90,"cost":80,"rating":4.4,"mainstream":false},
+ {"id":"snow_world","name":"Snow World Hyderabad","lat":17.4283,"lon":78.4697,"tags":["entertainment","local"],"open":"11:00","close":"20:30","duration":120,"cost":600,"rating":4.0,"mainstream":false}
+]

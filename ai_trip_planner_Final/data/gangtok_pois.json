@@ -1,0 +1,8 @@
+[
+ {"id":"tsomgo_lake","name":"Tsomgo Lake & Yak Ride","lat":27.3740,"lon":88.7610,"tags":["nature","views","photography","adventure"],"open":"07:00","close":"15:00","duration":180,"cost":200,"rating":4.8,"mainstream":true},
+ {"id":"nathula_pass","name":"Nathula Pass (Indo-China Border)","lat":27.3860,"lon":88.8310,"tags":["heritage","views","adventure","photography"],"open":"08:00","close":"14:00","duration":180,"cost":200,"rating":4.8,"mainstream":true},
+ {"id":"mg_marg_gangtok","name":"MG Marg Pedestrian Promenade Gangtok","lat":27.3314,"lon":88.6138,"tags":["shopping","food","culture","nightlife"],"open":"09:00","close":"21:30","duration":90,"cost":400,"rating":4.6,"mainstream":true},
+ {"id":"rumtek_monastery","name":"Rumtek Dharma Chakra Centre","lat":27.2980,"lon":88.5830,"tags":["spiritual","heritage","architecture","views"],"open":"06:00","close":"18:00","duration":90,"cost":10,"rating":4.6,"mainstream":true},
+ {"id":"ban_jhakri_falls","name":"Ban Jhakri Falls & Energy Park","lat":27.3480,"lon":88.6010,"tags":["nature","photography","relaxation"],"open":"08:00","close":"18:00","duration":75,"cost":50,"rating":4.4,"mainstream":false},
+ {"id":"pelling_skywalk","name":"Pelling Skywalk & Chenrezig Statue","lat":27.3000,"lon":88.2400,"tags":["views","photography","spiritual","nature"],"open":"08:00","close":"17:30","duration":120,"cost":50,"rating":4.7,"mainstream":false}
+]

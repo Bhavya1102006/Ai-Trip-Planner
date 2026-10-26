@@ -1,0 +1,10 @@
+[
+ {"id":"bara_imambara","name":"Bara Imambara & Bhul Bhulaiya","lat":26.8688,"lon":80.9129,"tags":["heritage","history","architecture","photography"],"open":"06:00","close":"17:00","duration":120,"cost":50,"rating":4.6,"mainstream":true},
+ {"id":"chota_imambara","name":"Chota Imambara","lat":26.8741,"lon":80.9048,"tags":["heritage","architecture","history","photography"],"open":"06:00","close":"17:00","duration":60,"cost":50,"rating":4.5,"mainstream":true},
+ {"id":"rumi_darwaza","name":"Rumi Darwaza (Turkish Gate)","lat":26.8708,"lon":80.9125,"tags":["heritage","architecture","photography"],"open":"00:00","close":"23:59","duration":30,"cost":0,"rating":4.6,"mainstream":true},
+ {"id":"hazratganj","name":"Hazratganj Shopping Promenade","lat":26.8480,"lon":80.9460,"tags":["shopping","food","culture","nightlife"],"open":"10:00","close":"22:00","duration":90,"cost":500,"rating":4.4,"mainstream":true},
+ {"id":"tunday_kababi","name":"Tunday Kababi Aminabad","lat":26.8465,"lon":80.9230,"tags":["food","local","street food"],"open":"12:00","close":"23:00","duration":60,"cost":350,"rating":4.5,"mainstream":true},
+ {"id":"ram_mandir_ayodhya","name":"Shri Ram Janmabhoomi Mandir Ayodhya","lat":26.7956,"lon":82.1943,"tags":["spiritual","architecture","heritage"],"open":"06:30","close":"21:30","duration":150,"cost":0,"rating":4.9,"mainstream":true},
+ {"id":"the_residency","name":"The British Residency Lucknow","lat":26.8614,"lon":80.9272,"tags":["heritage","history","nature","photography"],"open":"07:00","close":"18:00","duration":90,"cost":25,"rating":4.4,"mainstream":false},
+ {"id":"ambedkar_park","name":"Ambedkar Memorial Park","lat":26.8450,"lon":80.9760,"tags":["architecture","photography","relaxation"],"open":"11:00","close":"21:00","duration":90,"cost":20,"rating":4.5,"mainstream":false}
+]

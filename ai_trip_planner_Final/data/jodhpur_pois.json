@@ -1,0 +1,11 @@
+[
+ {"id":"mehrangarh_fort","name":"Mehrangarh Fort","lat":26.2980,"lon":73.0185,"tags":["heritage","history","views","photography"],"open":"09:00","close":"17:00","duration":180,"cost":600,"rating":4.7,"mainstream":true},
+ {"id":"jaswant_thada","name":"Jaswant Thada","lat":26.3011,"lon":73.0156,"tags":["heritage","photography","views"],"open":"09:00","close":"17:00","duration":60,"cost":30,"rating":4.5,"mainstream":true},
+ {"id":"umaid_bhawan_palace","name":"Umaid Bhawan Palace Museum","lat":26.2757,"lon":73.0500,"tags":["heritage","art","photography","architecture"],"open":"09:00","close":"17:00","duration":90,"cost":100,"rating":4.5,"mainstream":true},
+ {"id":"clock_tower_jodhpur","name":"Clock Tower & Sardar Market","lat":26.2918,"lon":73.0237,"tags":["shopping","food","local","street food"],"open":"10:00","close":"21:00","duration":90,"cost":400,"rating":4.4,"mainstream":true},
+ {"id":"mandore_gardens","name":"Mandore Gardens","lat":26.3435,"lon":73.0095,"tags":["heritage","nature","photography"],"open":"08:00","close":"20:00","duration":90,"cost":0,"rating":4.3,"mainstream":false},
+ {"id":"balsamand_lake","name":"Balsamand Lake & Gardens","lat":26.3382,"lon":73.0167,"tags":["nature","relaxation","photography"],"open":"08:00","close":"18:00","duration":60,"cost":0,"rating":4.2,"mainstream":false},
+ {"id":"blue_city_walk","name":"Blue City Walk (Brahmpuri)","lat":26.3003,"lon":73.0130,"tags":["photography","heritage","local","hidden"],"open":"07:00","close":"18:00","duration":90,"cost":0,"rating":4.6,"mainstream":false},
+ {"id":"rao_jodha_park","name":"Rao Jodha Desert Rock Park","lat":26.2970,"lon":73.0158,"tags":["nature","photography","relaxation"],"open":"07:00","close":"18:00","duration":90,"cost":100,"rating":4.4,"mainstream":false},
+ {"id":"spice_market","name":"Spice Market Jodhpur","lat":26.2895,"lon":73.0226,"tags":["shopping","local","food","culture"],"open":"10:00","close":"20:00","duration":60,"cost":300,"rating":4.3,"mainstream":false}
+]

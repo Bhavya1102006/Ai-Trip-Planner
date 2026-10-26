@@ -1,0 +1,22 @@
+[
+ {"id":"hawa_mahal_jaipur","name":"Hawa Mahal","lat":26.9239,"lon":75.8267,"tags":["heritage","photography","history"],"open":"09:00","close":"17:00","duration":45,"cost":200,"rating":4.5,"mainstream":true},
+ {"id":"amber_fort_jaipur","name":"Amber Fort","lat":26.9855,"lon":75.8513,"tags":["heritage","history","photography"],"open":"08:00","close":"17:30","duration":150,"cost":500,"rating":4.7,"mainstream":true},
+ {"id":"city_palace_jaipur","name":"City Palace","lat":26.9258,"lon":75.8237,"tags":["heritage","history","art"],"open":"09:30","close":"17:00","duration":120,"cost":700,"rating":4.6,"mainstream":true},
+ {"id":"jantar_mantar_jaipur","name":"Jantar Mantar","lat":26.9247,"lon":75.8246,"tags":["history","science","heritage"],"open":"09:00","close":"16:30","duration":60,"cost":200,"rating":4.5,"mainstream":true},
+ {"id":"nahargarh_fort","name":"Nahargarh Fort","lat":26.9372,"lon":75.8155,"tags":["heritage","views","photography"],"open":"10:00","close":"20:00","duration":120,"cost":200,"rating":4.6,"mainstream":true},
+ {"id":"jal_mahal_jaipur","name":"Jal Mahal","lat":26.9535,"lon":75.8460,"tags":["photography","views","heritage"],"open":"06:00","close":"20:00","duration":30,"cost":0,"rating":4.4,"mainstream":true},
+ {"id":"johari_bazaar_jaipur","name":"Johari Bazaar","lat":26.9190,"lon":75.8270,"tags":["shopping","food","culture"],"open":"10:00","close":"20:30","duration":90,"cost":600,"rating":4.3,"mainstream":true},
+ {"id":"albert_hall_jaipur","name":"Albert Hall Museum","lat":26.9118,"lon":75.8195,"tags":["art","history","culture"],"open":"09:00","close":"17:00","duration":90,"cost":300,"rating":4.4,"mainstream":true},
+ {"id":"lmb_jaipur","name":"Laxmi Misthan Bhandar (LMB)","lat":26.9189,"lon":75.8277,"tags":["food","local","sweets"],"open":"08:00","close":"22:00","duration":60,"cost":400,"rating":4.3,"mainstream":true},
+ {"id":"jaigarh_fort","name":"Jaigarh Fort","lat":26.9853,"lon":75.8445,"tags":["heritage","history","views"],"open":"09:00","close":"17:00","duration":90,"cost":200,"rating":4.5,"mainstream":false},
+ {"id":"panna_meena_kund","name":"Panna Meena ka Kund","lat":26.9877,"lon":75.8564,"tags":["heritage","photography","hidden"],"open":"07:00","close":"18:00","duration":40,"cost":0,"rating":4.4,"mainstream":false},
+ {"id":"galta_ji_jaipur","name":"Galta Ji (Monkey Temple)","lat":26.9188,"lon":75.8584,"tags":["spiritual","heritage","nature","hidden"],"open":"05:00","close":"19:00","duration":75,"cost":50,"rating":4.3,"mainstream":false},
+ {"id":"chokhi_dhani_jaipur","name":"Chokhi Dhani (ethnic village)","lat":26.7653,"lon":75.8349,"tags":["food","culture","entertainment","nightlife"],"open":"18:00","close":"23:30","duration":150,"cost":1000,"rating":4.2,"mainstream":true},
+ {"id":"bapu_bazaar_jaipur","name":"Bapu Bazaar","lat":26.9166,"lon":75.8170,"tags":["shopping","culture"],"open":"11:00","close":"21:00","duration":75,"cost":500,"rating":4.2,"mainstream":true},
+ {"id":"tapri_jaipur","name":"Tapri Central (cafe)","lat":26.9068,"lon":75.8061,"tags":["food","cafe","relaxation","nightlife"],"open":"08:00","close":"23:00","duration":60,"cost":450,"rating":4.2,"mainstream":false},
+ {"id":"birla_mandir_jaipur","name":"Birla Mandir Jaipur","lat":26.8924,"lon":75.8156,"tags":["spiritual","architecture","relaxation"],"open":"06:00","close":"20:00","duration":40,"cost":0,"rating":4.5,"mainstream":false},
+ {"id":"raj_mandir_cinema","name":"Raj Mandir Cinema","lat":26.9154,"lon":75.8043,"tags":["entertainment","culture","nightlife"],"open":"12:00","close":"23:00","duration":180,"cost":350,"rating":4.5,"mainstream":true},
+ {"id":"sanganer_printing","name":"Sanganer Block-Printing Workshops","lat":26.8225,"lon":75.7970,"tags":["art","culture","shopping","hidden"],"open":"09:30","close":"17:30","duration":90,"cost":300,"rating":4.3,"mainstream":false},
+ {"id":"anokhi_museum_jaipur","name":"Anokhi Museum of Hand Printing","lat":26.9887,"lon":75.8505,"tags":["art","culture","shopping"],"open":"10:30","close":"17:00","duration":60,"cost":100,"rating":4.5,"mainstream":false},
+ {"id":"rawat_mishthan","name":"Rawat Mishthan Bhandar","lat":26.8997,"lon":75.8083,"tags":["food","local","street food"],"open":"07:00","close":"21:30","duration":45,"cost":250,"rating":4.4,"mainstream":false}
+]

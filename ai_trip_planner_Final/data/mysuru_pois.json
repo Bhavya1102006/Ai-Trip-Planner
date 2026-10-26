@@ -1,0 +1,12 @@
+[
+ {"id":"mysore_palace","name":"Mysore Palace","lat":12.3052,"lon":76.6552,"tags":["heritage","history","photography","architecture"],"open":"10:00","close":"17:30","duration":150,"cost":100,"rating":4.7,"mainstream":true},
+ {"id":"chamundi_hills","name":"Chamundi Hills & Temple","lat":12.2726,"lon":76.6712,"tags":["spiritual","views","photography","heritage"],"open":"07:30","close":"21:00","duration":120,"cost":0,"rating":4.5,"mainstream":true},
+ {"id":"brindavan_gardens","name":"Brindavan Gardens","lat":12.4224,"lon":76.5730,"tags":["nature","photography","relaxation"],"open":"06:30","close":"21:30","duration":120,"cost":30,"rating":4.4,"mainstream":true},
+ {"id":"st_philomena","name":"St. Philomena's Church","lat":12.3220,"lon":76.6590,"tags":["spiritual","architecture","photography","heritage"],"open":"08:00","close":"20:00","duration":45,"cost":0,"rating":4.5,"mainstream":false},
+ {"id":"jaganmohan_palace","name":"Jaganmohan Palace & Art Gallery","lat":12.3063,"lon":76.6530,"tags":["art","heritage","culture"],"open":"08:00","close":"17:00","duration":90,"cost":40,"rating":4.2,"mainstream":false},
+ {"id":"mysore_zoo","name":"Sri Chamarajendra Zoological Gardens","lat":12.2961,"lon":76.6575,"tags":["nature","relaxation","local"],"open":"08:30","close":"17:30","duration":180,"cost":100,"rating":4.4,"mainstream":false},
+ {"id":"devaraja_market","name":"Devaraja Market","lat":12.3098,"lon":76.6556,"tags":["shopping","food","local","street food"],"open":"07:00","close":"21:00","duration":75,"cost":300,"rating":4.3,"mainstream":false},
+ {"id":"karanji_lake","name":"Karanji Lake Nature Park","lat":12.3001,"lon":76.6473,"tags":["nature","photography","relaxation"],"open":"09:00","close":"18:00","duration":90,"cost":30,"rating":4.3,"mainstream":false},
+ {"id":"somnathpur_temple","name":"Somnathpur Hoysala Temple","lat":12.2704,"lon":76.8882,"tags":["heritage","history","architecture","photography"],"open":"09:00","close":"17:30","duration":120,"cost":100,"rating":4.6,"mainstream":false},
+ {"id":"mysore_silk","name":"Government Silk Weaving Factory","lat":12.3094,"lon":76.6555,"tags":["shopping","culture","art","local"],"open":"10:00","close":"17:30","duration":75,"cost":0,"rating":4.2,"mainstream":false}
+]

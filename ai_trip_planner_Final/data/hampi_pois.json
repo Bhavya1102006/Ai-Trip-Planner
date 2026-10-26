@@ -1,0 +1,10 @@
+[
+ {"id":"virupaksha_temple","name":"Virupaksha Temple Hampi","lat":15.3350,"lon":76.4600,"tags":["heritage","spiritual","history","architecture"],"open":"06:00","close":"19:00","duration":90,"cost":25,"rating":4.7,"mainstream":true},
+ {"id":"vittala_temple_stone_chariot","name":"Vijaya Vittala Temple & Stone Chariot","lat":15.3410,"lon":76.4780,"tags":["heritage","history","architecture","photography"],"open":"08:30","close":"17:30","duration":120,"cost":40,"rating":4.8,"mainstream":true},
+ {"id":"matanga_hill_sunrise","name":"Matanga Hill Sunrise Point","lat":15.3330,"lon":76.4670,"tags":["views","photography","nature","adventure"],"open":"05:30","close":"18:30","duration":90,"cost":0,"rating":4.7,"mainstream":true},
+ {"id":"lotus_mahal","name":"Lotus Mahal & Elephant Stables","lat":15.3210,"lon":76.4720,"tags":["heritage","architecture","photography"],"open":"08:00","close":"18:00","duration":75,"cost":40,"rating":4.5,"mainstream":true},
+ {"id":"abbey_falls_coorg","name":"Abbey Falls Coorg","lat":12.4550,"lon":75.7180,"tags":["nature","photography","views","relaxation"],"open":"09:00","close":"17:00","duration":90,"cost":15,"rating":4.5,"mainstream":true},
+ {"id":"rajas_seat_coorg","name":"Raja's Seat Sunset View Coorg","lat":12.4200,"lon":75.7360,"tags":["views","photography","nature","relaxation"],"open":"06:00","close":"20:00","duration":60,"cost":5,"rating":4.4,"mainstream":true},
+ {"id":"namdroling_monastery","name":"Namdroling Golden Temple (Bylakuppe)","lat":12.4300,"lon":75.9660,"tags":["spiritual","architecture","culture","photography"],"open":"09:00","close":"18:00","duration":90,"cost":0,"rating":4.7,"mainstream":true},
+ {"id":"dubare_elephant_camp","name":"Dubare Elephant Camp Coorg","lat":12.3680,"lon":75.9050,"tags":["nature","wildlife","adventure","relaxation"],"open":"09:00","close":"16:30","duration":120,"cost":100,"rating":4.3,"mainstream":false}
+]

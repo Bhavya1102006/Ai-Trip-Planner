@@ -1,0 +1,9 @@
+[
+ {"id":"ooty_toy_train","name":"Nilgiri Mountain Railway (Toy Train)","lat":11.4100,"lon":76.7000,"tags":["heritage","views","nature","photography"],"open":"07:00","close":"17:00","duration":180,"cost":250,"rating":4.7,"mainstream":true},
+ {"id":"ooty_botanical_garden","name":"Government Botanical Gardens Ooty","lat":11.4180,"lon":76.7110,"tags":["nature","photography","relaxation"],"open":"07:00","close":"18:30","duration":90,"cost":40,"rating":4.5,"mainstream":true},
+ {"id":"doddabetta_peak","name":"Doddabetta Peak (Highest Viewpoint)","lat":11.4010,"lon":76.7350,"tags":["views","photography","nature"],"open":"09:00","close":"18:00","duration":75,"cost":10,"rating":4.4,"mainstream":true},
+ {"id":"ooty_lake","name":"Ooty Lake Boating","lat":11.4060,"lon":76.6870,"tags":["nature","relaxation","views"],"open":"09:00","close":"18:00","duration":90,"cost":150,"rating":4.3,"mainstream":true},
+ {"id":"kodaikanal_lake","name":"Kodaikanal Lake & Coaker's Walk","lat":10.2380,"lon":77.4890,"tags":["nature","views","relaxation","photography"],"open":"06:00","close":"19:00","duration":120,"cost":20,"rating":4.6,"mainstream":true},
+ {"id":"pillar_rocks_kodai","name":"Pillar Rocks Kodaikanal","lat":10.2100,"lon":77.4680,"tags":["nature","views","photography"],"open":"09:00","close":"17:30","duration":60,"cost":5,"rating":4.4,"mainstream":false},
+ {"id":"pykara_falls_lake","name":"Pykara Waterfalls & Lake Ooty","lat":11.4800,"lon":76.6000,"tags":["nature","views","photography","relaxation"],"open":"09:30","close":"17:30","duration":90,"cost":100,"rating":4.5,"mainstream":false}
+]

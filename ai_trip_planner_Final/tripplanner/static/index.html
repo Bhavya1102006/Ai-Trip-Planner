@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Trip Planner — Plan smarter, travel better</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:wght@700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ░░░ NAVBAR ░░░ -->
+  <nav class="navbar" id="navbar">
+    <div class="nav-inner">
+      <a href="#" class="logo">
+        <span class="logo-icon">✈</span>
+        <span>TripAI</span>
+      </a>
+      <ul class="nav-links">
+        <li><a href="#planner">Plan Trip</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#my-trips">My Trips</a></li>
+        <li><a href="#about">About</a></li>
+      </ul>
+      <button class="btn btn-primary btn-sm" onclick="scrollToPlanner()">Start Planning →</button>
+      <button class="hamburger" id="hamburger" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="mobile-menu" id="mobile-menu">
+      <a href="#planner" onclick="closeMobileMenu()">Plan Trip</a>
+      <a href="#features" onclick="closeMobileMenu()">Features</a>
+      <a href="#my-trips" onclick="closeMobileMenu()">My Trips</a>
+      <a href="#about" onclick="closeMobileMenu()">About</a>
+    </div>
+  </nav>
+
+  <!-- ░░░ HERO ░░░ -->
+  <section class="hero" id="home">
+    <div class="hero-bg">
+      <div class="hero-blob blob1"></div>
+      <div class="hero-blob blob2"></div>
+      <div class="hero-blob blob3"></div>
+    </div>
+    <div class="hero-content">
+      <div class="hero-badge">
+        <span class="badge-dot"></span>
+        AI-Powered Itinerary Planning
+      </div>
+      <h1 class="hero-title">
+        Plan Your Perfect<br />
+        <span class="gradient-text">Trip in Seconds</span>
+      </h1>
+      <p class="hero-subtitle">
+        Describe your dream trip in plain English. Our AI builds a day-wise itinerary
+        that respects opening hours, travel time, your pace and budget — no spreadsheets needed.
+      </p>
+      <div class="hero-cta">
+        <button class="btn btn-primary btn-lg" onclick="scrollToPlanner()">
+          ✦ Generate My Itinerary
+        </button>
+        <a href="#features" class="btn btn-ghost btn-lg">See How It Works</a>
+      </div>
+      <div class="hero-stats">
+        <div class="stat">
+          <span class="stat-num">24+</span>
+          <span class="stat-label">Curated POIs</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat">
+          <span class="stat-num">8</span>
+          <span class="stat-label">Interest Types</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat">
+          <span class="stat-num">3</span>
+          <span class="stat-label">Pace Modes</span>
+        </div>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <div class="preview-card" id="hero-preview">
+        <div class="preview-header">
+          <span class="preview-dot red"></span>
+          <span class="preview-dot yellow"></span>
+          <span class="preview-dot green"></span>
+          <span class="preview-title">3-Day Jaipur Itinerary</span>
+        </div>
+        <div class="preview-body">
+          <div class="preview-day">
+            <div class="preview-day-label">Day 1 — North Jaipur</div>
+            <div class="preview-stop">
+              <span class="preview-time">09:00–11:30</span>
+              <div>
+                <div class="preview-place">🏰 Amber Fort</div>
+                <div class="preview-meta">₹500 · Heritage · Photography</div>
+              </div>
+            </div>
+            <div class="preview-stop">
+              <span class="preview-time">11:45–13:15</span>
+              <div>
+                <div class="preview-place">🗼 Jaigarh Fort</div>
+                <div class="preview-meta">₹200 · History · Views <span class="local-badge">local pick</span></div>
+              </div>
+            </div>
+            <div class="preview-stop">
+              <span class="preview-time">14:00–14:40</span>
+              <div>
+                <div class="preview-place">🌊 Panna Meena ka Kund</div>
+                <div class="preview-meta">₹0 · Photography <span class="local-badge">local pick</span></div>
+              </div>
+            </div>
+          </div>
+          <div class="preview-day" style="margin-top:12px">
+            <div class="preview-day-label">Day 2 — Pink City Core</div>
+            <div class="preview-stop">
+              <span class="preview-time">09:30–11:30</span>
+              <div>
+                <div class="preview-place">🏛 City Palace</div>
+                <div class="preview-meta">₹700 · Heritage · Art</div>
+              </div>
+            </div>
+            <div class="preview-stop">
+              <span class="preview-time">11:45–12:45</span>
+              <div>
+                <div class="preview-place">🔭 Jantar Mantar</div>
+                <div class="preview-meta">₹200 · History · Science</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ░░░ FEATURES ░░░ -->
+  <section class="features" id="features">
+    <div class="section-inner">
+      <div class="section-tag">Why TripAI</div>
+      <h2 class="section-title">Everything Your Trip Needs</h2>
+      <p class="section-sub">From budget to pace to local hidden gems — we've got it all figured out.</p>
+      <div class="features-grid">
+        <div class="feature-card">
+          <div class="feature-icon">🧠</div>
+          <h3>Natural Language Input</h3>
+          <p>Just type what you want — "3 days in Jaipur, heritage and food, relaxed pace, budget ₹3000/day". No forms to fill.</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">📍</div>
+          <h3>Smart Geographic Clustering</h3>
+          <p>Stops are grouped by location using k-means clustering so you spend less time in traffic and more time exploring.</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">⏰</div>
+          <h3>Opening-Hour Aware</h3>
+          <p>Every schedule respects real opening and closing times, travel durations, and waiting times — no nasty surprises.</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">💰</div>
+          <h3>Budget-Optimised</h3>
+          <p>Your daily budget is respected at every step. Over-budget stops are gracefully swapped for alternatives.</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">🌿</div>
+          <h3>Sustainable Travel</h3>
+          <p>Local, off-the-beaten-path places get a ranking boost to support local economies and reduce tourist crowding (SDG 8/11).</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">💾</div>
+          <h3>Save & Revisit</h3>
+          <p>Sign in with any user ID and your trips are stored in the cloud. Revisit, compare, or share them any time.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ░░░ PLANNER ░░░ -->
+  <section class="planner-section" id="planner">
+    <div class="section-inner">
+      <div class="section-tag">Let's Go</div>
+      <h2 class="section-title">Plan Your Trip</h2>
+      <p class="section-sub">Describe your trip below and we'll generate a smart day-by-day itinerary.</p>
+
+      <div class="planner-layout">
+        <!-- FORM -->
+        <div class="planner-form-wrap">
+          <form id="planForm" class="planner-form" onsubmit="handlePlan(event)">
+            <div class="form-group">
+              <label for="brief">Your trip brief</label>
+              <textarea
+                id="brief"
+                name="brief"
+                rows="3"
+                placeholder='e.g. "3 days in Pune, budget 3000 per day, heritage and food, relaxed pace"'
+                required
+              ></textarea>
+              <div class="form-hint">💡 Supports all states & cities in India (Pune, Mumbai, Delhi, Goa, Kerala, Varanasi, Jaipur, etc.)</div>
+            </div>
+
+            <div class="form-row">
+              <div class="form-group">
+                <label for="user_id">Your name / ID <span class="optional">(optional — to save trips)</span></label>
+                <input type="text" id="user_id" name="user_id" placeholder="e.g. alice42" maxlength="64" />
+              </div>
+              <div class="form-group">
+                <label>Options</label>
+                <div class="toggle-group">
+                  <label class="toggle">
+                    <input type="checkbox" id="save_trip" />
+                    <span class="toggle-track"></span>
+                    <span class="toggle-label">💾 Save trip</span>
+                  </label>
+                  <label class="toggle">
+                    <input type="checkbox" id="use_llm" />
+                    <span class="toggle-track"></span>
+                    <span class="toggle-label">🤖 Use AI notes</span>
+                  </label>
+                </div>
+              </div>
+            </div>
+
+            <div class="example-briefs">
+              <span class="example-label">Try an example:</span>
+              <button type="button" class="chip" onclick="setExample(0)">Pune (Heritage + Food)</button>
+              <button type="button" class="chip" onclick="setExample(1)">Mumbai (Views + Food)</button>
+              <button type="button" class="chip" onclick="setExample(2)">Delhi (Heritage + Shopping)</button>
+              <button type="button" class="chip" onclick="setExample(3)">Goa (Nature + Nightlife)</button>
+              <button type="button" class="chip" onclick="setExample(4)">Jaipur (Photography)</button>
+              <button type="button" class="chip" onclick="setExample(5)">Kerala (Nature)</button>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-lg btn-full" id="submitBtn">
+              <span id="btnText">✦ Generate Itinerary</span>
+              <span id="btnSpinner" class="spinner hidden"></span>
+            </button>
+          </form>
+        </div>
+
+        <!-- RESULTS -->
+        <div class="results-wrap" id="resultsWrap">
+          <div class="results-empty" id="resultsEmpty">
+            <div class="empty-icon">🗺️</div>
+            <p>Your itinerary will appear here</p>
+          </div>
+          <div id="resultsContent" class="hidden"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ░░░ HOW IT WORKS ░░░ -->
+  <section class="how-section" id="how">
+    <div class="section-inner">
+      <div class="section-tag">The Science</div>
+      <h2 class="section-title">How It Works</h2>
+      <div class="steps">
+        <div class="step">
+          <div class="step-num">01</div>
+          <div class="step-body">
+            <h3>Parse your brief</h3>
+            <p>A rule-based parser (or LLM) extracts destination, days, budget, interests and pace from your text.</p>
+          </div>
+        </div>
+        <div class="step-connector"></div>
+        <div class="step">
+          <div class="step-num">02</div>
+          <div class="step-body">
+            <h3>Score &amp; Select POIs</h3>
+            <p>Every place of interest is scored against your interests, rating, and local-gem bonus, then the best pool is selected.</p>
+          </div>
+        </div>
+        <div class="step-connector"></div>
+        <div class="step">
+          <div class="step-num">03</div>
+          <div class="step-body">
+            <h3>Cluster by Geography</h3>
+            <p>K-means groups nearby stops into day-clusters, then a rebalancer ensures each day has roughly the same load.</p>
+          </div>
+        </div>
+        <div class="step-connector"></div>
+        <div class="step">
+          <div class="step-num">04</div>
+          <div class="step-body">
+            <h3>Sequence each day</h3>
+            <p>A greedy heuristic schedules each stop respecting opening hours, travel time, budget, and day-end cutoff.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ░░░ MY TRIPS ░░░ -->
+  <section class="mytrips-section" id="my-trips">
+    <div class="section-inner">
+      <div class="section-tag">Saved Trips</div>
+      <h2 class="section-title">My Trips</h2>
+      <div class="mytrips-lookup">
+        <input type="text" id="lookupUser" placeholder="Enter your name / ID to load saved trips" maxlength="64" />
+        <button class="btn btn-primary" onclick="loadMyTrips()">Load Trips</button>
+      </div>
+      <div id="myTripsResults">
+        <div class="trips-empty" id="tripsEmpty">
+          <div class="empty-icon">📋</div>
+          <p>Enter your user ID above to see saved trips.</p>
+        </div>
+        <div id="tripsList" class="trips-list hidden"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ░░░ ABOUT ░░░ -->
+  <section class="about-section" id="about">
+    <div class="section-inner about-inner">
+      <div class="about-text">
+        <div class="section-tag">About</div>
+        <h2 class="section-title">Built with Purpose</h2>
+        <p>
+          TripAI is a Stage 2 prototype of an AI-powered itinerary planner. The engine uses
+          geographic clustering, time-window scheduling, and interest-based scoring to produce
+          realistic day-plans — no hallucinations, no impossible routes.
+        </p>
+        <p>
+          The planner actively promotes <strong>sustainable tourism</strong>: local, non-mainstream 
+          places receive a scoring bonus, nudging travellers away from overcrowded spots toward 
+          hidden gems that benefit local communities (aligned with UN SDG 8 &amp; 11).
+        </p>
+        <div class="tech-chips">
+          <span class="tech-chip">Python 3.10+</span>
+          <span class="tech-chip">Standard Library only</span>
+          <span class="tech-chip">Gunicorn / WSGI</span>
+          <span class="tech-chip">SQLite / PostgreSQL</span>
+          <span class="tech-chip">Google Places API</span>
+          <span class="tech-chip">OpenTripMap</span>
+          <span class="tech-chip">Claude / Groq LLM</span>
+        </div>
+      </div>
+      <div class="about-image">
+        <div class="about-card">
+          <div class="about-card-header">API Endpoints</div>
+          <div class="api-list">
+            <div class="api-item">
+              <span class="method get">GET</span>
+              <code>/health</code>
+            </div>
+            <div class="api-item">
+              <span class="method post">POST</span>
+              <code>/plan</code>
+            </div>
+            <div class="api-item">
+              <span class="method get">GET</span>
+              <code>/trips?user_id=…</code>
+            </div>
+            <div class="api-item">
+              <span class="method get">GET</span>
+              <code>/trips/&lt;id&gt;</code>
+            </div>
+          </div>
+          <div class="server-status" id="serverStatus">
+            <span class="status-dot checking"></span>
+            <span id="statusText">Checking server…</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ░░░ FOOTER ░░░ -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-logo">
+        <span class="logo-icon">✈</span> TripAI
+      </div>
+      <p class="footer-tagline">Plan smarter. Travel better. Support locals.</p>
+      <div class="footer-links">
+        <a href="#planner">Plan Trip</a>
+        <a href="#features">Features</a>
+        <a href="#my-trips">My Trips</a>
+        <a href="#about">About</a>
+      </div>
+      <p class="footer-copy">© 2025 TripAI · AI Trip Planner Prototype</p>
+    </div>
+  </footer>
+
+  <!-- ░░░ TRIP DETAIL MODAL ░░░ -->
+  <div class="modal-overlay hidden" id="tripModal">
+    <div class="modal">
+      <button class="modal-close" onclick="closeModal()">✕</button>
+      <div id="modalContent"></div>
+    </div>
+  </div>
+
+  <!-- ░░░ TOAST ░░░ -->
+  <div class="toast hidden" id="toast"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+[
+ {"id":"shimla_mall_road","name":"The Mall Road Shimla","lat":31.1048,"lon":77.1734,"tags":["shopping","food","culture","views"],"open":"09:00","close":"21:00","duration":90,"cost":400,"rating":4.4,"mainstream":true},
+ {"id":"christ_church_shimla","name":"Christ Church Shimla","lat":31.1048,"lon":77.1734,"tags":["heritage","photography","architecture"],"open":"08:00","close":"18:00","duration":45,"cost":0,"rating":4.4,"mainstream":true},
+ {"id":"jakhu_temple","name":"Jakhu Temple & Monkey Hill","lat":31.1075,"lon":77.1815,"tags":["spiritual","views","photography","nature"],"open":"05:00","close":"20:00","duration":120,"cost":0,"rating":4.5,"mainstream":true},
+ {"id":"shimla_ridge","name":"The Ridge","lat":31.1048,"lon":77.1716,"tags":["views","photography","relaxation","local"],"open":"00:00","close":"23:59","duration":60,"cost":0,"rating":4.5,"mainstream":true},
+ {"id":"kufri","name":"Kufri Fun World","lat":31.0985,"lon":77.2639,"tags":["nature","adventure","views","photography"],"open":"09:00","close":"18:00","duration":180,"cost":500,"rating":4.2,"mainstream":true},
+ {"id":"viceregal_lodge","name":"Viceregal Lodge (IIAS)","lat":31.1108,"lon":77.1753,"tags":["heritage","history","photography","architecture"],"open":"09:00","close":"13:00","duration":90,"cost":75,"rating":4.4,"mainstream":false},
+ {"id":"chadwick_falls","name":"Chadwick Falls","lat":31.1248,"lon":77.1573,"tags":["nature","photography","relaxation"],"open":"09:00","close":"18:00","duration":75,"cost":0,"rating":4.0,"mainstream":false},
+ {"id":"lakkar_bazaar","name":"Lakkar Bazaar (Woodcraft Market)","lat":31.1021,"lon":77.1708,"tags":["shopping","local","art","culture"],"open":"09:00","close":"20:00","duration":60,"cost":400,"rating":4.1,"mainstream":false},
+ {"id":"state_museum_shimla","name":"Himachal State Museum","lat":31.1060,"lon":77.1697,"tags":["history","art","culture"],"open":"10:00","close":"17:00","duration":75,"cost":10,"rating":4.1,"mainstream":false},
+ {"id":"annandale_ground","name":"Annandale Ground & Golf Course","lat":31.0988,"lon":77.1727,"tags":["nature","relaxation","local"],"open":"06:00","close":"18:00","duration":60,"cost":0,"rating":4.2,"mainstream":false}
+]

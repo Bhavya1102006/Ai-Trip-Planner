@@ -1,0 +1,15 @@
+[
+ {"id":"lalbagh","name":"Lalbagh Botanical Garden","lat":12.9508,"lon":77.5848,"tags":["nature","photography","relaxation"],"open":"06:00","close":"19:00","duration":120,"cost":20,"rating":4.5,"mainstream":true},
+ {"id":"cubbon_park","name":"Cubbon Park","lat":12.9763,"lon":77.5929,"tags":["nature","relaxation","local"],"open":"06:00","close":"18:00","duration":90,"cost":0,"rating":4.4,"mainstream":true},
+ {"id":"bangalore_palace","name":"Bangalore Palace","lat":12.9987,"lon":77.5921,"tags":["heritage","history","photography"],"open":"10:00","close":"17:30","duration":90,"cost":460,"rating":4.2,"mainstream":true},
+ {"id":"tipu_sultan_summer_palace","name":"Tipu Sultan's Summer Palace","lat":12.9608,"lon":77.5709,"tags":["heritage","history","architecture"],"open":"08:30","close":"17:30","duration":60,"cost":15,"rating":4.2,"mainstream":false},
+ {"id":"iskcon_bengaluru","name":"ISKCON Temple Bengaluru","lat":13.0099,"lon":77.5519,"tags":["spiritual","architecture","photography"],"open":"07:00","close":"13:00","duration":75,"cost":0,"rating":4.6,"mainstream":true},
+ {"id":"vidhana_soudha","name":"Vidhana Soudha (exterior)","lat":12.9799,"lon":77.5907,"tags":["architecture","photography","heritage"],"open":"00:00","close":"23:59","duration":30,"cost":0,"rating":4.3,"mainstream":false},
+ {"id":"ulsoor_lake","name":"Ulsoor Lake","lat":12.9784,"lon":77.6165,"tags":["nature","relaxation","photography"],"open":"05:30","close":"18:30","duration":60,"cost":0,"rating":4.2,"mainstream":false},
+ {"id":"mg_road","name":"MG Road & Brigade Road","lat":12.9746,"lon":77.6090,"tags":["shopping","food","nightlife","culture"],"open":"10:00","close":"22:00","duration":90,"cost":700,"rating":4.2,"mainstream":true},
+ {"id":"commercial_street","name":"Commercial Street","lat":12.9826,"lon":77.6074,"tags":["shopping","local","food"],"open":"10:00","close":"21:00","duration":90,"cost":500,"rating":4.2,"mainstream":false},
+ {"id":"bannerghatta","name":"Bannerghatta National Park","lat":12.8001,"lon":77.5764,"tags":["nature","relaxation","photography"],"open":"09:00","close":"17:00","duration":240,"cost":400,"rating":4.3,"mainstream":false},
+ {"id":"church_street","name":"Church Street (cafes & pubs)","lat":12.9745,"lon":77.6057,"tags":["food","nightlife","culture"],"open":"10:00","close":"23:00","duration":90,"cost":600,"rating":4.3,"mainstream":false},
+ {"id":"innovative_film_city","name":"Innovative Film City","lat":12.9002,"lon":77.2945,"tags":["entertainment","culture","local"],"open":"10:00","close":"18:00","duration":180,"cost":699,"rating":4.1,"mainstream":false},
+ {"id":"nandi_hills","name":"Nandi Hills","lat":13.3702,"lon":77.6835,"tags":["nature","photography","views","relaxation"],"open":"06:00","close":"18:00","duration":240,"cost":10,"rating":4.5,"mainstream":false}
+]

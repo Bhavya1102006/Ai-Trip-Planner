@@ -1,0 +1,12 @@
+[
+ {"id":"rishikesh_lakshman_jhula","name":"Lakshman Jhula Bridge","lat":30.1238,"lon":78.3246,"tags":["heritage","photography","spiritual","views"],"open":"00:00","close":"23:59","duration":60,"cost":0,"rating":4.5,"mainstream":true},
+ {"id":"rishikesh_ganga_aarti","name":"Triveni Ghat Ganga Aarti","lat":30.1069,"lon":78.2988,"tags":["spiritual","photography","culture"],"open":"17:30","close":"19:00","duration":75,"cost":0,"rating":4.7,"mainstream":true},
+ {"id":"rishikesh_rafting","name":"White Water Rafting (16 km)","lat":30.1860,"lon":78.3285,"tags":["adventure","nature","photography"],"open":"08:00","close":"15:00","duration":240,"cost":600,"rating":4.7,"mainstream":true},
+ {"id":"neelkanth_mahadev","name":"Neelkanth Mahadev Temple","lat":30.1962,"lon":78.3817,"tags":["spiritual","nature","views","photography"],"open":"06:00","close":"18:00","duration":180,"cost":0,"rating":4.6,"mainstream":true},
+ {"id":"parmarth_niketan","name":"Parmarth Niketan Ashram","lat":30.1131,"lon":78.3152,"tags":["spiritual","relaxation","culture","local"],"open":"06:00","close":"21:00","duration":90,"cost":0,"rating":4.5,"mainstream":false},
+ {"id":"beatles_ashram","name":"Beatles Ashram (Chaurasi Kutia)","lat":30.1209,"lon":78.3201,"tags":["heritage","culture","photography","hidden"],"open":"08:00","close":"18:00","duration":90,"cost":600,"rating":4.5,"mainstream":false},
+ {"id":"vashishta_cave","name":"Vashistha Gufa (Cave)","lat":30.1502,"lon":78.3282,"tags":["spiritual","nature","hidden"],"open":"06:00","close":"18:00","duration":60,"cost":0,"rating":4.3,"mainstream":false},
+ {"id":"triyuginarayan","name":"Yoga & Meditation Class","lat":30.1076,"lon":78.2985,"tags":["spiritual","relaxation","culture","local"],"open":"06:00","close":"09:00","duration":120,"cost":300,"rating":4.6,"mainstream":false},
+ {"id":"ram_jhula","name":"Ram Jhula & Geeta Bhawan","lat":30.1140,"lon":78.3162,"tags":["spiritual","heritage","photography"],"open":"00:00","close":"23:59","duration":60,"cost":0,"rating":4.4,"mainstream":false},
+ {"id":"rishikesh_cafe_strip","name":"Rishikesh Cafe Strip (Little Buddha)","lat":30.1238,"lon":78.3257,"tags":["food","cafe","relaxation","nightlife"],"open":"08:00","close":"22:00","duration":90,"cost":400,"rating":4.3,"mainstream":false}
+]

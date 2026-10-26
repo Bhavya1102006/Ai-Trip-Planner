@@ -1,0 +1,12 @@
+[
+ {"id":"pangong_lake","name":"Pangong Tso Lake","lat":33.7595,"lon":78.6674,"tags":["nature","photography","views","relaxation"],"open":"06:00","close":"19:00","duration":240,"cost":0,"rating":4.9,"mainstream":true},
+ {"id":"nubra_valley","name":"Nubra Valley & Hunder Sand Dunes","lat":34.5833,"lon":77.5667,"tags":["nature","views","adventure","photography"],"open":"06:00","close":"19:00","duration":300,"cost":400,"rating":4.8,"mainstream":true},
+ {"id":"shanti_stupa","name":"Shanti Stupa Leh","lat":34.1722,"lon":77.5794,"tags":["spiritual","views","photography","architecture"],"open":"05:00","close":"21:00","duration":75,"cost":0,"rating":4.7,"mainstream":true},
+ {"id":"leh_palace","name":"Leh Palace","lat":34.1642,"lon":77.5850,"tags":["heritage","history","views","photography"],"open":"07:00","close":"19:00","duration":90,"cost":250,"rating":4.4,"mainstream":true},
+ {"id":"thiksey_monastery","name":"Thiksey Monastery","lat":34.0578,"lon":77.6667,"tags":["spiritual","heritage","architecture","photography"],"open":"06:00","close":"18:00","duration":90,"cost":30,"rating":4.8,"mainstream":true},
+ {"id":"khardung_la","name":"Khardung La Pass (Highest Motor Road)","lat":34.2789,"lon":77.6044,"tags":["adventure","views","photography","nature"],"open":"08:00","close":"17:00","duration":90,"cost":0,"rating":4.7,"mainstream":true},
+ {"id":"magnetic_hill","name":"Magnetic Hill Ladakh","lat":34.1950,"lon":77.3528,"tags":["nature","views","photography","science"],"open":"00:00","close":"23:59","duration":45,"cost":0,"rating":4.3,"mainstream":false},
+ {"id":"sangam_zanskar_indus","name":"Sangam (Confluence of Indus & Zanskar)","lat":34.1647,"lon":77.3325,"tags":["nature","photography","views","adventure"],"open":"07:00","close":"18:00","duration":60,"cost":0,"rating":4.7,"mainstream":false},
+ {"id":"leh_main_bazaar","name":"Leh Main Bazaar","lat":34.1625,"lon":77.5836,"tags":["shopping","food","culture","local"],"open":"10:00","close":"21:00","duration":90,"cost":400,"rating":4.5,"mainstream":false},
+ {"id":"hall_of_fame_leh","name":"Hall of Fame Military Museum","lat":34.1436,"lon":77.5517,"tags":["heritage","history","culture"],"open":"09:00","close":"19:00","duration":90,"cost":200,"rating":4.7,"mainstream":false}
+]

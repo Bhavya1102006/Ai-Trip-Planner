@@ -1,0 +1,9 @@
+[
+ {"id":"mahakaleshwar_temple","name":"Mahakaleshwar Jyotirlinga Ujjain","lat":23.1827,"lon":75.7682,"tags":["spiritual","heritage","architecture"],"open":"04:00","close":"23:00","duration":120,"cost":0,"rating":4.9,"mainstream":true},
+ {"id":"sarafa_bazaar_night_food","name":"Sarafa Bazaar Night Street Food Market Indore","lat":22.7180,"lon":75.8540,"tags":["food","nightlife","street food","local"],"open":"20:00","close":"02:00","duration":120,"cost":350,"rating":4.8,"mainstream":true},
+ {"id":"rajwada_palace_indore","name":"Rajwada Palace Indore (Holkar Dynasty)","lat":22.7196,"lon":75.8577,"tags":["heritage","history","architecture","photography"],"open":"10:00","close":"18:00","duration":75,"cost":20,"rating":4.4,"mainstream":true},
+ {"id":"chappan_dukan_indore","name":"Chappan Dukan Food Street Indore","lat":22.7240,"lon":75.8820,"tags":["food","local","street food"],"open":"08:00","close":"23:00","duration":90,"cost":300,"rating":4.6,"mainstream":true},
+ {"id":"sanchi_stupa_unesco","name":"Great Stupa at Sanchi (UNESCO)","lat":23.4794,"lon":77.7397,"tags":["heritage","history","spiritual","architecture"],"open":"06:30","close":"18:30","duration":120,"cost":40,"rating":4.8,"mainstream":true},
+ {"id":"upper_lake_bhopal","name":"Upper Lake (Bhojtal) & Boat Club Bhopal","lat":23.2500,"lon":77.3800,"tags":["nature","views","relaxation","photography"],"open":"06:00","close":"20:00","duration":90,"cost":100,"rating":4.5,"mainstream":true},
+ {"id":"khajuraho_temples","name":"Khajuraho Group of Monuments (UNESCO)","lat":24.8318,"lon":79.9199,"tags":["heritage","history","architecture","art"],"open":"06:00","close":"18:00","duration":180,"cost":40,"rating":4.8,"mainstream":true}
+]

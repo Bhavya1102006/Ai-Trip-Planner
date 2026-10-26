@@ -1,0 +1,12 @@
+[
+ {"id":"munnar_tea_gardens","name":"Munnar Tea Gardens","lat":10.0889,"lon":77.0595,"tags":["nature","photography","relaxation","views"],"open":"07:00","close":"18:00","duration":120,"cost":150,"rating":4.6,"mainstream":true},
+ {"id":"eravikulam_national_park","name":"Eravikulam National Park","lat":10.1687,"lon":77.0629,"tags":["nature","photography","relaxation"],"open":"07:30","close":"16:00","duration":180,"cost":450,"rating":4.6,"mainstream":true},
+ {"id":"attukal_waterfalls","name":"Attukal Waterfalls","lat":10.1012,"lon":77.0887,"tags":["nature","photography","relaxation"],"open":"07:00","close":"18:00","duration":90,"cost":0,"rating":4.4,"mainstream":false},
+ {"id":"top_station","name":"Top Station Viewpoint","lat":10.1437,"lon":77.2102,"tags":["views","photography","nature"],"open":"07:00","close":"18:00","duration":120,"cost":0,"rating":4.5,"mainstream":false},
+ {"id":"mattupetty_dam","name":"Mattupetty Dam & Lake","lat":10.1264,"lon":77.1146,"tags":["nature","views","relaxation","photography"],"open":"09:00","close":"17:00","duration":90,"cost":20,"rating":4.4,"mainstream":false},
+ {"id":"tea_museum_munnar","name":"Tea Museum Munnar","lat":10.0797,"lon":77.0662,"tags":["history","culture","local","hidden"],"open":"09:00","close":"17:00","duration":75,"cost":75,"rating":4.3,"mainstream":false},
+ {"id":"rajamala","name":"Rajamala (Eravikulam Wildlife)","lat":10.1719,"lon":77.0632,"tags":["nature","photography","relaxation"],"open":"08:00","close":"16:00","duration":120,"cost":150,"rating":4.5,"mainstream":false},
+ {"id":"chinnakanal_waterfalls","name":"Chinnakanal Waterfalls","lat":10.0302,"lon":77.0964,"tags":["nature","photography","hidden"],"open":"07:00","close":"18:00","duration":75,"cost":0,"rating":4.3,"mainstream":false},
+ {"id":"munnar_flower_garden","name":"Blossom International Park","lat":10.0886,"lon":77.0596,"tags":["nature","photography","relaxation"],"open":"09:00","close":"18:00","duration":75,"cost":50,"rating":4.1,"mainstream":false},
+ {"id":"photo_point_munnar","name":"Photo Point Munnar","lat":10.0894,"lon":77.0600,"tags":["photography","views","nature"],"open":"07:00","close":"18:00","duration":45,"cost":0,"rating":4.3,"mainstream":false}
+]

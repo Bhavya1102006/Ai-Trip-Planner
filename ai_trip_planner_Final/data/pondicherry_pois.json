@@ -1,0 +1,8 @@
+[
+ {"id":"promenade_beach","name":"Promenade Beach & Rock Beach Pondicherry","lat":11.9333,"lon":79.8333,"tags":["nature","relaxation","views","photography"],"open":"00:00","close":"23:59","duration":90,"cost":0,"rating":4.6,"mainstream":true},
+ {"id":"french_quarter_white_town","name":"White Town (French Heritage Quarter Walk)","lat":11.9310,"lon":79.8320,"tags":["heritage","architecture","photography","cafe"],"open":"07:00","close":"22:00","duration":120,"cost":0,"rating":4.6,"mainstream":true},
+ {"id":"auroville_matrimandir","name":"Auroville & Matrimandir Viewing Point","lat":12.0070,"lon":79.8110,"tags":["spiritual","architecture","relaxation","nature"],"open":"09:00","close":"17:00","duration":180,"cost":0,"rating":4.7,"mainstream":true},
+ {"id":"aurobindo_ashram","name":"Sri Aurobindo Ashram","lat":11.9360,"lon":79.8330,"tags":["spiritual","relaxation","heritage"],"open":"08:00","close":"18:00","duration":60,"cost":0,"rating":4.6,"mainstream":true},
+ {"id":"paradise_beach_ferry","name":"Paradise Beach & Chunnambar Boat House","lat":11.8750,"lon":79.8150,"tags":["nature","relaxation","adventure","photography"],"open":"09:00","close":"17:30","duration":150,"cost":350,"rating":4.5,"mainstream":true},
+ {"id":"basilica_sacred_heart","name":"Basilica of the Sacred Heart of Jesus","lat":11.9280,"lon":79.8270,"tags":["spiritual","architecture","heritage"],"open":"06:00","close":"19:30","duration":45,"cost":0,"rating":4.5,"mainstream":false}
+]

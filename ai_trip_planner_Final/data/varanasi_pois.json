@@ -1,0 +1,14 @@
+[
+ {"id":"dashashwamedh_ghat","name":"Dashashwamedh Ghat (Ganga Aarti)","lat":25.3085,"lon":83.0103,"tags":["spiritual","photography","culture"],"open":"18:00","close":"20:00","duration":90,"cost":0,"rating":4.8,"mainstream":true},
+ {"id":"kashi_vishwanath","name":"Kashi Vishwanath Temple","lat":25.3109,"lon":83.0106,"tags":["spiritual","heritage"],"open":"03:00","close":"23:00","duration":60,"cost":0,"rating":4.7,"mainstream":true},
+ {"id":"manikarnika_ghat","name":"Manikarnika Ghat","lat":25.3107,"lon":83.0120,"tags":["spiritual","culture","photography"],"open":"00:00","close":"23:59","duration":60,"cost":0,"rating":4.5,"mainstream":true},
+ {"id":"sarnath","name":"Sarnath (Buddhist site)","lat":25.3791,"lon":83.0241,"tags":["spiritual","heritage","history"],"open":"09:00","close":"17:00","duration":120,"cost":300,"rating":4.5,"mainstream":true},
+ {"id":"bharat_kala_bhavan","name":"Bharat Kala Bhavan Museum","lat":25.2677,"lon":82.9932,"tags":["art","history","culture"],"open":"10:30","close":"17:00","duration":90,"cost":50,"rating":4.2,"mainstream":false},
+ {"id":"ramnagar_fort","name":"Ramnagar Fort & Museum","lat":25.2887,"lon":83.0375,"tags":["heritage","history","photography"],"open":"10:00","close":"17:00","duration":90,"cost":15,"rating":4.0,"mainstream":false},
+ {"id":"assi_ghat","name":"Assi Ghat","lat":25.2871,"lon":83.0095,"tags":["spiritual","relaxation","local","photography"],"open":"04:00","close":"22:00","duration":90,"cost":0,"rating":4.4,"mainstream":false},
+ {"id":"tulsi_manas","name":"Tulsi Manas Temple","lat":25.3081,"lon":82.9985,"tags":["spiritual","architecture"],"open":"05:30","close":"12:00","duration":45,"cost":0,"rating":4.3,"mainstream":false},
+ {"id":"varanasi_silk","name":"Varanasi Silk Weaving Workshops","lat":25.3217,"lon":82.9997,"tags":["shopping","culture","art","hidden"],"open":"09:00","close":"18:00","duration":60,"cost":300,"rating":4.4,"mainstream":false},
+ {"id":"durga_temple","name":"Durga Temple (Monkey Temple)","lat":25.2982,"lon":83.0025,"tags":["spiritual","local"],"open":"06:00","close":"20:00","duration":45,"cost":0,"rating":4.3,"mainstream":false},
+ {"id":"godowlia_market","name":"Godowlia Market","lat":25.3085,"lon":83.0072,"tags":["shopping","local","street food","food"],"open":"09:00","close":"22:00","duration":75,"cost":400,"rating":4.2,"mainstream":false},
+ {"id":"rajendra_prasad_ghat","name":"Morning Boat Ride on Ganga","lat":25.3090,"lon":83.0110,"tags":["photography","relaxation","spiritual","local"],"open":"05:00","close":"08:00","duration":60,"cost":200,"rating":4.7,"mainstream":false}
+]

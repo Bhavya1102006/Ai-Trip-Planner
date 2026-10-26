@@ -1,0 +1,8 @@
+[
+ {"id":"jagannath_temple_puri","name":"Shree Jagannath Temple Puri","lat":19.8049,"lon":85.8179,"tags":["spiritual","heritage","architecture","history"],"open":"05:00","close":"23:00","duration":120,"cost":0,"rating":4.8,"mainstream":true},
+ {"id":"konark_sun_temple","name":"Konark Sun Temple (UNESCO)","lat":19.8876,"lon":86.0945,"tags":["heritage","history","architecture","photography"],"open":"06:00","close":"20:00","duration":120,"cost":40,"rating":4.8,"mainstream":true},
+ {"id":"puri_golden_beach","name":"Golden Beach Puri (Blue Flag)","lat":19.7980,"lon":85.8250,"tags":["nature","relaxation","views","photography"],"open":"06:00","close":"21:00","duration":90,"cost":20,"rating":4.5,"mainstream":true},
+ {"id":"lingaraj_temple","name":"Lingaraj Temple Bhubaneswar","lat":20.2382,"lon":85.8338,"tags":["spiritual","heritage","architecture","history"],"open":"06:00","close":"21:00","duration":90,"cost":0,"rating":4.7,"mainstream":true},
+ {"id":"chilika_lake","name":"Chilika Lake (Dolphin Boat Safari)","lat":19.7160,"lon":85.3160,"tags":["nature","wildlife","photography","views"],"open":"07:00","close":"16:30","duration":240,"cost":600,"rating":4.6,"mainstream":true},
+ {"id":"udayagiri_khandagiri","name":"Udayagiri and Khandagiri Caves","lat":20.2600,"lon":85.7850,"tags":["heritage","history","architecture"],"open":"08:00","close":"18:00","duration":90,"cost":25,"rating":4.4,"mainstream":false}
+]

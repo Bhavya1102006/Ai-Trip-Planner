@@ -1,0 +1,13 @@
+[
+ {"id":"city_palace_udaipur","name":"City Palace Udaipur","lat":24.5765,"lon":73.6836,"tags":["heritage","history","art","photography"],"open":"09:30","close":"17:30","duration":150,"cost":700,"rating":4.7,"mainstream":true},
+ {"id":"lake_pichola","name":"Lake Pichola Boat Ride","lat":24.5748,"lon":73.6814,"tags":["nature","photography","views","relaxation"],"open":"10:00","close":"18:00","duration":90,"cost":400,"rating":4.7,"mainstream":true},
+ {"id":"jag_mandir","name":"Jag Mandir Island Palace","lat":24.5690,"lon":73.6781,"tags":["heritage","photography","views"],"open":"10:00","close":"18:00","duration":90,"cost":600,"rating":4.6,"mainstream":true},
+ {"id":"lake_fateh_sagar","name":"Fateh Sagar Lake","lat":24.5916,"lon":73.6702,"tags":["nature","relaxation","photography","views"],"open":"07:00","close":"19:00","duration":75,"cost":0,"rating":4.5,"mainstream":true},
+ {"id":"sajjangarh","name":"Monsoon Palace (Sajjangarh Fort)","lat":24.5812,"lon":73.6462,"tags":["heritage","views","photography"],"open":"08:00","close":"18:00","duration":90,"cost":80,"rating":4.5,"mainstream":true},
+ {"id":"jagdish_temple","name":"Jagdish Temple","lat":24.5783,"lon":73.6822,"tags":["spiritual","heritage","architecture"],"open":"04:15","close":"21:00","duration":45,"cost":0,"rating":4.5,"mainstream":false},
+ {"id":"saheliyon_ki_bari","name":"Saheliyon ki Bari","lat":24.5891,"lon":73.6869,"tags":["heritage","nature","photography"],"open":"08:00","close":"18:00","duration":60,"cost":50,"rating":4.3,"mainstream":false},
+ {"id":"bagore_ki_haveli","name":"Bagore ki Haveli Museum","lat":24.5761,"lon":73.6815,"tags":["heritage","art","culture"],"open":"09:30","close":"17:30","duration":75,"cost":100,"rating":4.3,"mainstream":false},
+ {"id":"shilpgram","name":"Shilpgram Crafts Village","lat":24.5859,"lon":73.6467,"tags":["art","culture","shopping","local"],"open":"11:00","close":"19:00","duration":90,"cost":30,"rating":4.2,"mainstream":false},
+ {"id":"ambrai_ghat","name":"Ambrai Ghat","lat":24.5764,"lon":73.6798,"tags":["photography","views","relaxation","local"],"open":"06:00","close":"22:00","duration":60,"cost":0,"rating":4.6,"mainstream":false},
+ {"id":"hathipol_bazaar","name":"Hathipol Bazaar","lat":24.5808,"lon":73.6843,"tags":["shopping","local","handicraft"],"open":"10:00","close":"20:00","duration":75,"cost":400,"rating":4.2,"mainstream":false}
+]

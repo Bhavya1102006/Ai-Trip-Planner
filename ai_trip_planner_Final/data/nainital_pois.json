@@ -1,0 +1,10 @@
+[
+ {"id":"naini_lake","name":"Naini Lake & Boating","lat":29.3900,"lon":79.4580,"tags":["nature","views","photography","relaxation"],"open":"06:00","close":"18:30","duration":90,"cost":210,"rating":4.6,"mainstream":true},
+ {"id":"naina_devi_temple","name":"Naina Devi Temple","lat":29.3960,"lon":79.4540,"tags":["spiritual","views","heritage"],"open":"06:00","close":"21:00","duration":60,"cost":0,"rating":4.6,"mainstream":true},
+ {"id":"mall_road_nainital","name":"Mall Road Nainital","lat":29.3880,"lon":79.4620,"tags":["shopping","food","culture","relaxation"],"open":"09:00","close":"22:00","duration":90,"cost":400,"rating":4.4,"mainstream":true},
+ {"id":"snow_view_point","name":"Snow View Point Cable Car","lat":29.4000,"lon":79.4560,"tags":["views","photography","nature"],"open":"09:30","close":"17:00","duration":75,"cost":300,"rating":4.4,"mainstream":true},
+ {"id":"tiffin_top","name":"Tiffin Top (Dorothy's Seat)","lat":29.3820,"lon":79.4450,"tags":["views","nature","photography","adventure"],"open":"06:00","close":"18:00","duration":120,"cost":0,"rating":4.5,"mainstream":false},
+ {"id":"kempty_falls_mussoorie","name":"Kempty Falls Mussoorie","lat":30.4850,"lon":78.0450,"tags":["nature","views","photography","relaxation"],"open":"08:00","close":"18:00","duration":120,"cost":50,"rating":4.3,"mainstream":true},
+ {"id":"gun_hill_mussoorie","name":"Gun Hill Ropeway Mussoorie","lat":30.4600,"lon":78.0750,"tags":["views","photography","nature"],"open":"09:00","close":"18:30","duration":75,"cost":150,"rating":4.4,"mainstream":true},
+ {"id":"mall_road_mussoorie","name":"The Mall Road Mussoorie","lat":30.4570,"lon":78.0780,"tags":["shopping","food","culture","views"],"open":"09:00","close":"22:00","duration":90,"cost":400,"rating":4.4,"mainstream":true}
+]

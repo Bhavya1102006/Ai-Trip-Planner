@@ -1,0 +1,8 @@
+[
+ {"id":"dalai_lama_temple","name":"Tsuglagkhang Complex (Dalai Lama Temple)","lat":32.2350,"lon":76.3260,"tags":["spiritual","peace","culture","views"],"open":"06:00","close":"18:00","duration":90,"cost":0,"rating":4.8,"mainstream":true},
+ {"id":"bhagsu_waterfall","name":"Bhagsu Waterfall & Bhagsunag Temple","lat":32.2470,"lon":76.3360,"tags":["nature","views","photography","relaxation"],"open":"07:00","close":"18:30","duration":90,"cost":0,"rating":4.5,"mainstream":true},
+ {"id":"triund_trek","name":"Triund Hill Trek & Dhauladhar Viewpoint","lat":32.2590,"lon":76.3530,"tags":["nature","adventure","views","photography"],"open":"06:00","close":"17:00","duration":300,"cost":0,"rating":4.9,"mainstream":true},
+ {"id":"st_john_wilderness","name":"St. John in the Wilderness Church","lat":32.2380,"lon":76.3150,"tags":["heritage","architecture","history","photography"],"open":"08:00","close":"18:00","duration":45,"cost":0,"rating":4.5,"mainstream":false},
+ {"id":"norbulingka_institute","name":"Norbulingka Institute of Tibetan Culture","lat":32.1830,"lon":76.3500,"tags":["art","culture","handicraft","relaxation"],"open":"09:00","close":"17:30","duration":120,"cost":100,"rating":4.7,"mainstream":false},
+ {"id":"mcleodganj_market","name":"McLeod Ganj Market & Tibetan Cafes","lat":32.2420,"lon":76.3220,"tags":["shopping","food","cafe","culture"],"open":"10:00","close":"22:00","duration":90,"cost":400,"rating":4.5,"mainstream":false}
+]

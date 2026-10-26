@@ -1,0 +1,17 @@
+[
+ {"id":"victoria_memorial","name":"Victoria Memorial","lat":22.5448,"lon":88.3426,"tags":["heritage","history","photography","art"],"open":"10:00","close":"18:00","duration":120,"cost":200,"rating":4.6,"mainstream":true},
+ {"id":"howrah_bridge","name":"Howrah Bridge","lat":22.5851,"lon":88.3468,"tags":["heritage","photography","views"],"open":"00:00","close":"23:59","duration":45,"cost":0,"rating":4.5,"mainstream":true},
+ {"id":"kalighat_temple","name":"Kalighat Kali Temple","lat":22.5239,"lon":88.3434,"tags":["spiritual","local","heritage"],"open":"05:00","close":"22:00","duration":60,"cost":0,"rating":4.5,"mainstream":true},
+ {"id":"indian_museum","name":"Indian Museum Kolkata","lat":22.5564,"lon":88.3501,"tags":["history","art","culture","science"],"open":"10:00","close":"17:00","duration":120,"cost":150,"rating":4.4,"mainstream":true},
+ {"id":"park_street","name":"Park Street","lat":22.5520,"lon":88.3517,"tags":["food","nightlife","culture","shopping"],"open":"10:00","close":"23:00","duration":90,"cost":600,"rating":4.3,"mainstream":true},
+ {"id":"salt_lake_city","name":"Eco Park Kolkata","lat":22.5858,"lon":88.4789,"tags":["nature","relaxation","photography"],"open":"12:00","close":"20:30","duration":120,"cost":30,"rating":4.2,"mainstream":false},
+ {"id":"dakshineswar","name":"Dakshineswar Kali Temple","lat":22.6549,"lon":88.3578,"tags":["spiritual","heritage","photography"],"open":"06:00","close":"20:30","duration":90,"cost":0,"rating":4.7,"mainstream":true},
+ {"id":"college_street","name":"College Street Book Market","lat":22.5727,"lon":88.3633,"tags":["culture","local","shopping","hidden"],"open":"10:00","close":"19:00","duration":75,"cost":200,"rating":4.4,"mainstream":false},
+ {"id":"kumartuli","name":"Kumartuli (Potter's Quarter)","lat":22.5964,"lon":88.3568,"tags":["art","culture","local","photography","hidden"],"open":"09:00","close":"18:00","duration":60,"cost":0,"rating":4.4,"mainstream":false},
+ {"id":"maidan","name":"Maidan (Largest Urban Park)","lat":22.5480,"lon":88.3435,"tags":["nature","relaxation","local"],"open":"05:00","close":"21:00","duration":75,"cost":0,"rating":4.2,"mainstream":false},
+ {"id":"tangra_chinatown","name":"Tangra Chinatown","lat":22.5500,"lon":88.3967,"tags":["food","local","culture","hidden"],"open":"12:00","close":"22:00","duration":90,"cost":500,"rating":4.3,"mainstream":false},
+ {"id":"marble_palace","name":"Marble Palace","lat":22.5961,"lon":88.3549,"tags":["art","heritage","architecture","hidden"],"open":"10:00","close":"16:00","duration":90,"cost":0,"rating":4.4,"mainstream":false},
+ {"id":"belur_math","name":"Belur Math","lat":22.6288,"lon":88.3587,"tags":["spiritual","architecture","photography"],"open":"06:30","close":"19:30","duration":90,"cost":0,"rating":4.6,"mainstream":false},
+ {"id":"new_market","name":"New Market (Hogg Market)","lat":22.5619,"lon":88.3502,"tags":["shopping","food","local"],"open":"10:00","close":"20:00","duration":75,"cost":400,"rating":4.1,"mainstream":false},
+ {"id":"princep_ghat","name":"Prinsep Ghat","lat":22.5564,"lon":88.3281,"tags":["photography","views","relaxation","local"],"open":"05:00","close":"22:00","duration":60,"cost":0,"rating":4.5,"mainstream":false}
+]

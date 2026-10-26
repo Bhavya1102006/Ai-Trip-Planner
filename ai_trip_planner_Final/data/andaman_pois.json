@@ -1,0 +1,7 @@
+[
+ {"id":"cellular_jail","name":"Cellular Jail National Memorial (Kala Pani)","lat":11.6740,"lon":92.7480,"tags":["heritage","history","culture","photography"],"open":"09:00","close":"17:00","duration":120,"cost":30,"rating":4.8,"mainstream":true},
+ {"id":"radhanagar_beach","name":"Radhanagar Beach Havelock (Asia's Best Beach)","lat":11.9830,"lon":92.9500,"tags":["nature","relaxation","views","photography"],"open":"06:00","close":"18:00","duration":180,"cost":0,"rating":4.9,"mainstream":true},
+ {"id":"elephant_beach_snorkeling","name":"Elephant Beach Snorkeling & Water Sports","lat":12.0100,"lon":92.9700,"tags":["nature","adventure","photography","views"],"open":"08:00","close":"16:00","duration":180,"cost":750,"rating":4.7,"mainstream":true},
+ {"id":"ross_island_netaji","name":"Netaji Subhash Chandra Bose Island (Ross Island)","lat":11.6710,"lon":92.7630,"tags":["heritage","history","nature","photography"],"open":"08:30","close":"16:30","duration":150,"cost":100,"rating":4.7,"mainstream":true},
+ {"id":"chidiya_tapu_sunset","name":"Chidiya Tapu Sunset Point & Bird Island","lat":11.5080,"lon":92.7050,"tags":["nature","views","photography","relaxation"],"open":"06:00","close":"18:30","duration":90,"cost":0,"rating":4.6,"mainstream":false}
+]

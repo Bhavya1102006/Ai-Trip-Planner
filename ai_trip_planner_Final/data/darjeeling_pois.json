@@ -1,0 +1,12 @@
+[
+ {"id":"darjeeling_toy_train","name":"Darjeeling Himalayan Railway (Toy Train)","lat":27.0410,"lon":88.2663,"tags":["heritage","views","photography","culture"],"open":"08:00","close":"16:00","duration":120,"cost":300,"rating":4.6,"mainstream":true},
+ {"id":"tiger_hill_sunrise","name":"Tiger Hill Sunrise Viewpoint","lat":27.0134,"lon":88.2954,"tags":["views","photography","nature"],"open":"03:30","close":"08:00","duration":120,"cost":50,"rating":4.7,"mainstream":true},
+ {"id":"batasia_loop","name":"Batasia Loop (War Memorial)","lat":27.0222,"lon":88.2731,"tags":["heritage","views","photography"],"open":"07:00","close":"18:00","duration":60,"cost":30,"rating":4.4,"mainstream":true},
+ {"id":"tea_garden_darjeeling","name":"Happy Valley Tea Estate","lat":27.0420,"lon":88.2620,"tags":["nature","culture","local","photography"],"open":"08:00","close":"16:30","duration":120,"cost":100,"rating":4.4,"mainstream":true},
+ {"id":"peace_pagoda","name":"Japanese Peace Pagoda Darjeeling","lat":27.0381,"lon":88.2618,"tags":["spiritual","views","photography","nature"],"open":"04:30","close":"19:30","duration":75,"cost":0,"rating":4.5,"mainstream":false},
+ {"id":"himalayan_zoological_park","name":"Padmaja Naidu Himalayan Zoo","lat":27.0439,"lon":88.2641,"tags":["nature","relaxation","local"],"open":"08:30","close":"16:30","duration":120,"cost":100,"rating":4.4,"mainstream":false},
+ {"id":"chowrasta","name":"Chowrasta (Mall area)","lat":27.0438,"lon":88.2657,"tags":["views","food","culture","relaxation"],"open":"09:00","close":"20:00","duration":90,"cost":300,"rating":4.3,"mainstream":false},
+ {"id":"ghoom_monastery","name":"Ghoom Monastery","lat":26.9924,"lon":88.2757,"tags":["spiritual","heritage","photography","culture"],"open":"07:00","close":"19:00","duration":60,"cost":0,"rating":4.5,"mainstream":false},
+ {"id":"tenzing_rock","name":"Tenzing Rock & Mountaineering Inst.","lat":27.0293,"lon":88.2649,"tags":["adventure","heritage","local"],"open":"09:00","close":"17:00","duration":75,"cost":150,"rating":4.2,"mainstream":false},
+ {"id":"darjeeling_market","name":"Darjeeling Market (Chowk Bazaar)","lat":27.0333,"lon":88.2655,"tags":["shopping","food","local","street food"],"open":"09:00","close":"20:00","duration":75,"cost":300,"rating":4.2,"mainstream":false}
+]

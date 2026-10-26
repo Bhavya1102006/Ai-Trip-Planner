@@ -1,0 +1,8 @@
+[
+ {"id":"mahabodhi_temple","name":"Mahabodhi Temple Complex (UNESCO)","lat":24.6960,"lon":84.9913,"tags":["spiritual","heritage","history","architecture"],"open":"05:00","close":"21:00","duration":120,"cost":0,"rating":4.9,"mainstream":true},
+ {"id":"bodhi_tree","name":"The Sacred Bodhi Tree","lat":24.6962,"lon":84.9910,"tags":["spiritual","heritage","relaxation"],"open":"05:00","close":"21:00","duration":60,"cost":0,"rating":4.9,"mainstream":true},
+ {"id":"great_buddha_statue","name":"Great Buddha Statue Bodh Gaya (80 ft)","lat":24.6980,"lon":84.9850,"tags":["spiritual","architecture","photography"],"open":"07:00","close":"19:00","duration":45,"cost":0,"rating":4.7,"mainstream":true},
+ {"id":"nalanda_university","name":"Nalanda Ancient University Ruins (UNESCO)","lat":25.1350,"lon":85.4430,"tags":["heritage","history","culture","architecture"],"open":"09:00","close":"17:30","duration":120,"cost":40,"rating":4.7,"mainstream":true},
+ {"id":"vishwa_shanti_stupa_rajgir","name":"Vishwa Shanti Stupa & Ropeway Rajgir","lat":25.0110,"lon":85.4220,"tags":["spiritual","views","photography","nature"],"open":"09:00","close":"17:00","duration":120,"cost":100,"rating":4.6,"mainstream":true},
+ {"id":"golghar_patna","name":"Golghar Monument & Ganga View Patna","lat":25.6200,"lon":85.1430,"tags":["heritage","views","history"],"open":"09:30","close":"17:30","duration":60,"cost":10,"rating":4.2,"mainstream":false}
+]

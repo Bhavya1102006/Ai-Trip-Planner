@@ -1,0 +1,9 @@
+[
+ {"id":"kamakhya_temple","name":"Kamakhya Temple Guwahati","lat":26.1663,"lon":91.7056,"tags":["spiritual","heritage","architecture","history"],"open":"05:30","close":"18:00","duration":120,"cost":0,"rating":4.8,"mainstream":true},
+ {"id":"kaziranga_rhino_safari","name":"Kaziranga National Park (One-Horned Rhinos)","lat":26.5775,"lon":93.1711,"tags":["nature","wildlife","adventure","photography"],"open":"06:00","close":"16:30","duration":240,"cost":1000,"rating":4.9,"mainstream":true},
+ {"id":"umiam_lake","name":"Umiam Lake (Barapani) Meghalaya","lat":25.6667,"lon":91.8900,"tags":["nature","views","relaxation","photography"],"open":"06:00","close":"18:00","duration":90,"cost":50,"rating":4.6,"mainstream":true},
+ {"id":"cherrapunji_root_bridge","name":"Double Decker Living Root Bridge Cherrapunji","lat":25.2500,"lon":91.7000,"tags":["nature","adventure","photography","heritage"],"open":"06:00","close":"17:00","duration":240,"cost":50,"rating":4.9,"mainstream":true},
+ {"id":"nohkalikai_falls","name":"Nohkalikai Falls (Tallest Plunge Waterfall)","lat":25.2750,"lon":91.6850,"tags":["nature","views","photography"],"open":"08:00","close":"17:30","duration":90,"cost":20,"rating":4.8,"mainstream":true},
+ {"id":"dawki_river_boating","name":"Umngot River Crystal Clear Waters Dawki","lat":25.1850,"lon":92.0200,"tags":["nature","adventure","photography","views"],"open":"07:00","close":"17:00","duration":120,"cost":600,"rating":4.8,"mainstream":true},
+ {"id":"shillong_police_bazaar","name":"Police Bazaar Shillong","lat":25.5780,"lon":91.8830,"tags":["shopping","food","culture","local"],"open":"10:00","close":"21:00","duration":90,"cost":400,"rating":4.3,"mainstream":false}
+]

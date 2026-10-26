@@ -1,0 +1,12 @@
+[
+ {"id":"taj_mahal","name":"Taj Mahal","lat":27.1751,"lon":78.0421,"tags":["heritage","history","photography","architecture"],"open":"06:00","close":"18:30","duration":180,"cost":1100,"rating":4.9,"mainstream":true},
+ {"id":"agra_fort","name":"Agra Fort","lat":27.1795,"lon":78.0211,"tags":["heritage","history","architecture"],"open":"06:00","close":"18:00","duration":120,"cost":650,"rating":4.6,"mainstream":true},
+ {"id":"fatehpur_sikri","name":"Fatehpur Sikri","lat":27.0945,"lon":77.6610,"tags":["heritage","history","architecture","photography"],"open":"07:00","close":"18:00","duration":150,"cost":610,"rating":4.5,"mainstream":true},
+ {"id":"mehtab_bagh","name":"Mehtab Bagh (Moonlight Garden)","lat":27.1788,"lon":78.0378,"tags":["heritage","photography","views"],"open":"06:00","close":"18:00","duration":60,"cost":300,"rating":4.5,"mainstream":false},
+ {"id":"itimad_ud_daulah","name":"Itimad-ud-Daulah (Baby Taj)","lat":27.1962,"lon":78.0338,"tags":["heritage","history","photography"],"open":"07:00","close":"17:00","duration":75,"cost":310,"rating":4.4,"mainstream":false},
+ {"id":"dayal_bagh","name":"Dayal Bagh Temple","lat":27.2088,"lon":77.9980,"tags":["spiritual","architecture","local"],"open":"06:00","close":"12:00","duration":60,"cost":0,"rating":4.4,"mainstream":false},
+ {"id":"kinari_bazaar","name":"Kinari Bazaar","lat":27.1811,"lon":78.0226,"tags":["shopping","local","street food"],"open":"10:00","close":"20:00","duration":75,"cost":400,"rating":4.2,"mainstream":false},
+ {"id":"jama_masjid_agra","name":"Jama Masjid Agra","lat":27.1819,"lon":78.0223,"tags":["spiritual","heritage","photography"],"open":"07:00","close":"12:00","duration":45,"cost":0,"rating":4.3,"mainstream":false},
+ {"id":"chini_ka_rauza","name":"Chini Ka Rauza","lat":27.2003,"lon":78.0322,"tags":["heritage","history","hidden"],"open":"07:00","close":"17:00","duration":45,"cost":0,"rating":4.2,"mainstream":false},
+ {"id":"ram_bagh","name":"Ram Bagh Garden","lat":27.2167,"lon":78.0285,"tags":["heritage","nature","relaxation"],"open":"07:00","close":"17:00","duration":60,"cost":100,"rating":4.0,"mainstream":false}
+]

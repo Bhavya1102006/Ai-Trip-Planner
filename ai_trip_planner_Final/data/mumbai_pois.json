@@ -1,0 +1,22 @@
+[
+ {"id":"gateway_of_india","name":"Gateway of India","lat":18.9220,"lon":72.8347,"tags":["heritage","photography","views"],"open":"00:00","close":"23:59","duration":45,"cost":0,"rating":4.6,"mainstream":true},
+ {"id":"marine_drive","name":"Marine Drive","lat":18.9440,"lon":72.8230,"tags":["views","photography","relaxation","nightlife"],"open":"00:00","close":"23:59","duration":60,"cost":0,"rating":4.6,"mainstream":true},
+ {"id":"chhatrapati_shivaji_museum","name":"Chhatrapati Shivaji Maharaj Museum","lat":18.9269,"lon":72.8323,"tags":["art","history","culture"],"open":"10:15","close":"18:00","duration":120,"cost":300,"rating":4.5,"mainstream":true},
+ {"id":"elephanta_caves","name":"Elephanta Caves","lat":18.9633,"lon":72.9315,"tags":["heritage","history","photography"],"open":"09:30","close":"17:30","duration":180,"cost":600,"rating":4.4,"mainstream":true},
+ {"id":"dharavi","name":"Dharavi Slum Tour","lat":19.0413,"lon":72.8545,"tags":["culture","local","hidden"],"open":"09:00","close":"17:00","duration":120,"cost":750,"rating":4.5,"mainstream":false},
+ {"id":"bandra_worli_sealink","name":"Bandra-Worli Sea Link","lat":19.0177,"lon":72.8156,"tags":["photography","views","architecture"],"open":"00:00","close":"23:59","duration":30,"cost":0,"rating":4.5,"mainstream":true},
+ {"id":"juhu_beach","name":"Juhu Beach","lat":19.0989,"lon":72.8264,"tags":["nature","food","relaxation","photography"],"open":"05:00","close":"22:00","duration":90,"cost":0,"rating":4.2,"mainstream":true},
+ {"id":"crawford_market","name":"Crawford Market","lat":18.9457,"lon":72.8341,"tags":["shopping","culture","food"],"open":"10:00","close":"20:00","duration":75,"cost":400,"rating":4.1,"mainstream":false},
+ {"id":"haji_ali","name":"Haji Ali Dargah","lat":18.9826,"lon":72.8090,"tags":["spiritual","heritage","photography"],"open":"05:30","close":"22:00","duration":60,"cost":0,"rating":4.6,"mainstream":true},
+ {"id":"siddhivinayak","name":"Siddhivinayak Temple","lat":19.0167,"lon":72.8300,"tags":["spiritual","local"],"open":"05:30","close":"21:50","duration":60,"cost":0,"rating":4.7,"mainstream":true},
+ {"id":"colaba_causeway","name":"Colaba Causeway","lat":18.9167,"lon":72.8278,"tags":["shopping","culture","food"],"open":"10:00","close":"22:00","duration":90,"cost":500,"rating":4.3,"mainstream":true},
+ {"id":"national_park_borivali","name":"Sanjay Gandhi National Park","lat":19.2147,"lon":72.8822,"tags":["nature","relaxation","photography"],"open":"07:30","close":"18:30","duration":180,"cost":53,"rating":4.4,"mainstream":false},
+ {"id":"global_vipassana_pagoda","name":"Global Vipassana Pagoda","lat":19.1614,"lon":72.7975,"tags":["spiritual","architecture","photography"],"open":"09:00","close":"19:00","duration":120,"cost":0,"rating":4.6,"mainstream":false},
+ {"id":"prithvi_theatre","name":"Prithvi Theatre (Juhu)","lat":19.0998,"lon":72.8266,"tags":["culture","art","nightlife"],"open":"13:00","close":"22:00","duration":120,"cost":400,"rating":4.5,"mainstream":false},
+ {"id":"bandstand_bandra","name":"Bandstand Promenade","lat":19.0503,"lon":72.8215,"tags":["views","photography","relaxation","nightlife"],"open":"06:00","close":"22:00","duration":60,"cost":0,"rating":4.4,"mainstream":false},
+ {"id":"chor_bazaar","name":"Chor Bazaar","lat":18.9580,"lon":72.8370,"tags":["shopping","local","hidden"],"open":"11:00","close":"20:00","duration":90,"cost":300,"rating":4.3,"mainstream":false},
+ {"id":"versova_village","name":"Versova Fishing Village","lat":19.1303,"lon":72.8112,"tags":["local","food","photography","hidden"],"open":"06:00","close":"19:00","duration":60,"cost":0,"rating":4.2,"mainstream":false},
+ {"id":"bmb_marg","name":"Kala Ghoda Art Precinct","lat":18.9277,"lon":72.8318,"tags":["art","culture","food"],"open":"10:00","close":"20:00","duration":90,"cost":0,"rating":4.4,"mainstream":false},
+ {"id":"powai_lake","name":"Powai Lake","lat":19.1273,"lon":72.9084,"tags":["nature","photography","relaxation"],"open":"06:00","close":"20:00","duration":60,"cost":0,"rating":4.3,"mainstream":false},
+ {"id":"chowpatty_beach","name":"Chowpatty Beach","lat":18.9548,"lon":72.8147,"tags":["food","local","relaxation","street food"],"open":"06:00","close":"23:00","duration":60,"cost":150,"rating":4.2,"mainstream":true}
+]

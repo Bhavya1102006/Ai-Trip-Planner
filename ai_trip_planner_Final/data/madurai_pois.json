@@ -1,0 +1,9 @@
+[
+ {"id":"meenakshi_amman","name":"Meenakshi Amman Temple Madurai","lat":9.9195,"lon":78.1193,"tags":["spiritual","heritage","architecture","history"],"open":"05:00","close":"22:00","duration":120,"cost":0,"rating":4.9,"mainstream":true},
+ {"id":"thirumalai_nayakkar","name":"Thirumalai Nayakkar Mahal","lat":9.9150,"lon":78.1240,"tags":["heritage","architecture","history","photography"],"open":"09:00","close":"17:00","duration":75,"cost":50,"rating":4.5,"mainstream":true},
+ {"id":"ramanathaswamy_temple","name":"Ramanathaswamy Temple Rameswaram","lat":9.2881,"lon":79.3174,"tags":["spiritual","heritage","architecture"],"open":"05:00","close":"21:00","duration":120,"cost":0,"rating":4.8,"mainstream":true},
+ {"id":"dhanushkodi_beach","name":"Dhanushkodi Ghost Town & Beach","lat":9.1770,"lon":79.4180,"tags":["heritage","nature","views","photography"],"open":"06:00","close":"18:00","duration":150,"cost":0,"rating":4.7,"mainstream":true},
+ {"id":"vivekananda_rock","name":"Vivekananda Rock Memorial Kanyakumari","lat":8.0780,"lon":77.5550,"tags":["spiritual","views","photography","history"],"open":"08:00","close":"16:00","duration":120,"cost":50,"rating":4.8,"mainstream":true},
+ {"id":"thiruvalluvar_statue","name":"Thiruvalluvar Statue Kanyakumari","lat":8.0770,"lon":77.5530,"tags":["heritage","photography","views"],"open":"08:00","close":"16:00","duration":60,"cost":0,"rating":4.7,"mainstream":true},
+ {"id":"kanyakumari_triveni_sangam","name":"Triveni Sangam & Sunset Point Kanyakumari","lat":8.0800,"lon":77.5500,"tags":["nature","views","photography","spiritual"],"open":"05:30","close":"19:30","duration":60,"cost":0,"rating":4.6,"mainstream":false}
+]

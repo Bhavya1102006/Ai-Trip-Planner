@@ -1,0 +1,7 @@
+[
+ {"id":"rock_garden_chandigarh","name":"Nek Chand Rock Garden Chandigarh","lat":30.7525,"lon":76.8066,"tags":["art","culture","nature","photography"],"open":"09:00","close":"19:00","duration":120,"cost":30,"rating":4.6,"mainstream":true},
+ {"id":"sukhna_lake","name":"Sukhna Lake Boating & Promenade","lat":30.7421,"lon":76.8188,"tags":["nature","relaxation","views","photography"],"open":"05:00","close":"21:00","duration":90,"cost":100,"rating":4.6,"mainstream":true},
+ {"id":"zakir_hussain_rose_garden","name":"Zakir Hussain Rose Garden (Largest in Asia)","lat":30.7460,"lon":76.7820,"tags":["nature","relaxation","photography"],"open":"06:00","close":"20:00","duration":75,"cost":0,"rating":4.5,"mainstream":true},
+ {"id":"sector_17_plaza","name":"Sector 17 City Centre Plaza","lat":30.7400,"lon":76.7820,"tags":["shopping","food","culture","nightlife"],"open":"10:00","close":"22:00","duration":90,"cost":400,"rating":4.3,"mainstream":true},
+ {"id":"capitol_complex_unesco","name":"Capitol Complex (Le Corbusier UNESCO)","lat":30.7590,"lon":76.8020,"tags":["heritage","architecture","history"],"open":"10:00","close":"17:00","duration":90,"cost":0,"rating":4.5,"mainstream":false}
+]

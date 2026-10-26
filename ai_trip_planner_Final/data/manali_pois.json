@@ -1,0 +1,12 @@
+[
+ {"id":"manali_rohtang_pass","name":"Rohtang Pass","lat":32.3723,"lon":77.2490,"tags":["nature","views","photography","adventure"],"open":"06:00","close":"17:00","duration":300,"cost":500,"rating":4.5,"mainstream":true},
+ {"id":"hadimba_temple","name":"Hadimba Devi Temple","lat":32.2411,"lon":77.1832,"tags":["spiritual","heritage","photography","nature"],"open":"08:00","close":"18:00","duration":60,"cost":0,"rating":4.5,"mainstream":true},
+ {"id":"old_manali","name":"Old Manali Village","lat":32.2567,"lon":77.1836,"tags":["culture","food","cafe","nightlife","local"],"open":"09:00","close":"23:00","duration":120,"cost":400,"rating":4.4,"mainstream":true},
+ {"id":"solang_valley","name":"Solang Valley (snow activities)","lat":32.3159,"lon":77.1539,"tags":["nature","adventure","photography","views"],"open":"09:00","close":"17:00","duration":240,"cost":600,"rating":4.5,"mainstream":true},
+ {"id":"vashisht_hot_springs","name":"Vashisht Hot Springs & Temple","lat":32.2628,"lon":77.1923,"tags":["spiritual","relaxation","local","hidden"],"open":"07:00","close":"21:00","duration":75,"cost":0,"rating":4.4,"mainstream":false},
+ {"id":"manu_temple","name":"Manu Temple Old Manali","lat":32.2580,"lon":77.1830,"tags":["spiritual","heritage","views"],"open":"06:00","close":"18:00","duration":45,"cost":0,"rating":4.3,"mainstream":false},
+ {"id":"naggar_castle","name":"Naggar Castle & Roerich Gallery","lat":32.1115,"lon":77.1688,"tags":["heritage","art","views","photography"],"open":"10:00","close":"17:00","duration":120,"cost":100,"rating":4.4,"mainstream":false},
+ {"id":"beas_river_camp","name":"Beas River Camping & Bonfire","lat":32.2490,"lon":77.1818,"tags":["nature","adventure","relaxation","nightlife"],"open":"17:00","close":"23:00","duration":180,"cost":800,"rating":4.6,"mainstream":false},
+ {"id":"manali_market","name":"Manali Market (Mall Road)","lat":32.2432,"lon":77.1892,"tags":["shopping","food","local"],"open":"09:00","close":"21:00","duration":75,"cost":500,"rating":4.2,"mainstream":false},
+ {"id":"kullu_paragliding","name":"Dobhi Paragliding Site (Kullu)","lat":32.0000,"lon":77.1100,"tags":["adventure","views","photography","nature"],"open":"09:00","close":"16:00","duration":180,"cost":2500,"rating":4.7,"mainstream":false}
+]

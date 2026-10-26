@@ -1,0 +1,8 @@
+[
+ {"id":"alleppey_houseboat","name":"Alleppey Backwaters Houseboat Cruise","lat":9.4981,"lon":76.3388,"tags":["nature","relaxation","views","photography"],"open":"08:00","close":"18:00","duration":240,"cost":1200,"rating":4.9,"mainstream":true},
+ {"id":"marari_beach","name":"Marari Beach Alleppey","lat":9.6000,"lon":76.2980,"tags":["nature","relaxation","views","photography"],"open":"06:00","close":"20:00","duration":90,"cost":0,"rating":4.6,"mainstream":true},
+ {"id":"varkala_cliff_beach","name":"Varkala Cliff & Papanasam Beach","lat":8.7380,"lon":76.7030,"tags":["nature","views","nightlife","relaxation","photography"],"open":"06:00","close":"22:00","duration":150,"cost":0,"rating":4.7,"mainstream":true},
+ {"id":"banasura_sagar_wayanad","name":"Banasura Sagar Dam Wayanad","lat":11.6670,"lon":75.9570,"tags":["nature","views","photography","adventure"],"open":"09:00","close":"17:30","duration":120,"cost":40,"rating":4.5,"mainstream":true},
+ {"id":"edakkal_caves_wayanad","name":"Edakkal Caves (Prehistoric Carvings)","lat":11.6250,"lon":76.2350,"tags":["heritage","history","nature","adventure"],"open":"09:00","close":"16:00","duration":120,"cost":50,"rating":4.4,"mainstream":false},
+ {"id":"periyar_tiger_reserve","name":"Periyar Wildlife Sanctuary (Thekkady)","lat":9.4670,"lon":77.1430,"tags":["nature","wildlife","adventure","photography"],"open":"06:00","close":"17:00","duration":180,"cost":450,"rating":4.6,"mainstream":true}
+]

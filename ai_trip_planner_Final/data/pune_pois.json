@@ -1,0 +1,13 @@
+[
+ {"id":"shaniwar_wada","name":"Shaniwar Wada Fort","lat":18.5195,"lon":73.8553,"tags":["heritage","history","photography"],"open":"08:00","close":"18:30","duration":90,"cost":25,"rating":4.3,"mainstream":true},
+ {"id":"aga_khan_palace","name":"Aga Khan Palace","lat":18.5534,"lon":73.9018,"tags":["heritage","history","photography"],"open":"09:00","close":"17:30","duration":90,"cost":300,"rating":4.4,"mainstream":true},
+ {"id":"sinhagad_fort","name":"Sinhagad Fort","lat":18.3660,"lon":73.7551,"tags":["heritage","views","nature","photography"],"open":"06:00","close":"18:00","duration":180,"cost":40,"rating":4.5,"mainstream":true},
+ {"id":"osho_ashram","name":"Osho International Meditation Resort","lat":18.5362,"lon":73.8913,"tags":["spiritual","relaxation","culture"],"open":"09:00","close":"21:00","duration":120,"cost":1000,"rating":4.3,"mainstream":true},
+ {"id":"koregaon_park","name":"Koregaon Park Cafes & Breweries","lat":18.5362,"lon":73.8913,"tags":["food","nightlife","cafe","culture"],"open":"11:00","close":"23:00","duration":120,"cost":700,"rating":4.3,"mainstream":false},
+ {"id":"dagdusheth_ganpati","name":"Shrimant Dagdusheth Halwai Ganpati","lat":18.5172,"lon":73.8553,"tags":["spiritual","heritage","local"],"open":"06:00","close":"23:00","duration":45,"cost":0,"rating":4.8,"mainstream":true},
+ {"id":"pataleshwar_cave","name":"Pataleshwar Cave Temple","lat":18.5220,"lon":73.8420,"tags":["heritage","spiritual","hidden","photography"],"open":"08:30","close":"17:30","duration":60,"cost":0,"rating":4.3,"mainstream":false},
+ {"id":"laxmi_road","name":"Laxmi Road Shopping","lat":18.5124,"lon":73.8517,"tags":["shopping","local","food","street food"],"open":"10:00","close":"21:00","duration":90,"cost":500,"rating":4.1,"mainstream":false},
+ {"id":"raja_kelkar_museum","name":"Raja Dinkar Kelkar Museum","lat":18.5144,"lon":73.8586,"tags":["art","history","culture"],"open":"09:30","close":"17:30","duration":90,"cost":150,"rating":4.5,"mainstream":false},
+ {"id":"fc_road","name":"FC Road (Ferguson College Road)","lat":18.5314,"lon":73.8446,"tags":["food","cafe","nightlife","shopping"],"open":"10:00","close":"23:00","duration":90,"cost":500,"rating":4.2,"mainstream":false},
+ {"id":"lavasa_pune","name":"Lavasa (planned hill city)","lat":18.4060,"lon":73.5148,"tags":["nature","views","relaxation","photography"],"open":"09:00","close":"18:00","duration":240,"cost":200,"rating":4.2,"mainstream":false}
+]

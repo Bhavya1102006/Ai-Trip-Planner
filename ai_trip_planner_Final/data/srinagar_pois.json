@@ -1,0 +1,12 @@
+[
+ {"id":"dal_lake","name":"Dal Lake & Shikara Ride","lat":34.1130,"lon":74.8700,"tags":["nature","views","photography","relaxation"],"open":"06:00","close":"20:00","duration":120,"cost":500,"rating":4.8,"mainstream":true},
+ {"id":"shalimar_bagh","name":"Shalimar Bagh Mughal Garden","lat":34.1500,"lon":74.8720,"tags":["heritage","nature","photography","history"],"open":"09:00","close":"19:00","duration":90,"cost":24,"rating":4.6,"mainstream":true},
+ {"id":"nishat_bagh","name":"Nishat Bagh (Garden of Bliss)","lat":34.1250,"lon":74.8780,"tags":["nature","views","photography","relaxation"],"open":"09:00","close":"19:00","duration":90,"cost":24,"rating":4.6,"mainstream":true},
+ {"id":"shankaracharya_temple","name":"Shankaracharya Temple","lat":34.0720,"lon":74.8430,"tags":["spiritual","views","heritage","history"],"open":"07:00","close":"20:00","duration":75,"cost":0,"rating":4.7,"mainstream":true},
+ {"id":"gulmarg_gondola","name":"Gulmarg Gondola & Snow Peaks","lat":34.0480,"lon":74.3800,"tags":["nature","adventure","views","photography"],"open":"09:00","close":"17:00","duration":240,"cost":1000,"rating":4.8,"mainstream":true},
+ {"id":"pari_mahal","name":"Pari Mahal (Palace of Fairies)","lat":34.0900,"lon":74.8760,"tags":["heritage","views","photography","history"],"open":"09:30","close":"19:30","duration":60,"cost":20,"rating":4.5,"mainstream":false},
+ {"id":"hazratbal","name":"Hazratbal Shrine","lat":34.1290,"lon":74.8420,"tags":["spiritual","heritage","architecture","photography"],"open":"05:00","close":"21:00","duration":60,"cost":0,"rating":4.6,"mainstream":true},
+ {"id":"lal_chowk","name":"Lal Chowk & Old Srinagar Bazaar","lat":34.0720,"lon":74.8110,"tags":["shopping","food","culture","local"],"open":"10:00","close":"20:00","duration":90,"cost":500,"rating":4.3,"mainstream":false},
+ {"id":"pahalgam_betaab_valley","name":"Pahalgam & Betaab Valley","lat":34.0150,"lon":75.3150,"tags":["nature","views","photography","relaxation"],"open":"08:00","close":"18:00","duration":240,"cost":100,"rating":4.8,"mainstream":true},
+ {"id":"jamia_masjid_srinagar","name":"Jamia Masjid Srinagar","lat":34.0970,"lon":74.8160,"tags":["heritage","spiritual","architecture","history"],"open":"06:00","close":"19:00","duration":60,"cost":0,"rating":4.6,"mainstream":false}
+]

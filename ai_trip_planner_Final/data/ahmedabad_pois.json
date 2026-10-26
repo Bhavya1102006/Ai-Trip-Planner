@@ -1,0 +1,12 @@
+[
+ {"id":"sabarmati_ashram","name":"Sabarmati Ashram (Gandhi Ashram)","lat":23.0609,"lon":72.5797,"tags":["heritage","history","culture"],"open":"08:30","close":"18:30","duration":90,"cost":0,"rating":4.6,"mainstream":true},
+ {"id":"adalaj_stepwell","name":"Adalaj Stepwell","lat":23.1664,"lon":72.5794,"tags":["heritage","history","photography","architecture"],"open":"08:00","close":"18:00","duration":75,"cost":0,"rating":4.6,"mainstream":true},
+ {"id":"old_city_ahmedabad","name":"Old City Heritage Walk","lat":23.0258,"lon":72.5873,"tags":["heritage","history","local","culture","photography"],"open":"07:00","close":"19:00","duration":120,"cost":0,"rating":4.5,"mainstream":true},
+ {"id":"kankaria_lake","name":"Kankaria Lake & Carnival","lat":22.9915,"lon":72.6012,"tags":["nature","relaxation","entertainment","local"],"open":"09:00","close":"21:00","duration":120,"cost":25,"rating":4.3,"mainstream":false},
+ {"id":"science_city","name":"Science City Ahmedabad","lat":23.0346,"lon":72.5619,"tags":["science","culture","entertainment"],"open":"10:00","close":"19:00","duration":180,"cost":310,"rating":4.5,"mainstream":false},
+ {"id":"law_garden_market","name":"Law Garden Night Market","lat":23.0353,"lon":72.5615,"tags":["shopping","nightlife","food","culture"],"open":"18:00","close":"22:00","duration":90,"cost":400,"rating":4.3,"mainstream":false},
+ {"id":"rani_ki_vav","name":"Rani ki Vav Patan (day trip)","lat":23.8588,"lon":72.1012,"tags":["heritage","history","photography","architecture"],"open":"07:00","close":"18:00","duration":180,"cost":40,"rating":4.7,"mainstream":false},
+ {"id":"akshardham_gandhinagar","name":"Akshardham Gandhinagar","lat":23.2163,"lon":72.6490,"tags":["spiritual","architecture","photography"],"open":"09:30","close":"18:30","duration":150,"cost":30,"rating":4.7,"mainstream":false},
+ {"id":"hutheesing_jain_temple","name":"Hutheesing Jain Temple","lat":23.0359,"lon":72.5955,"tags":["spiritual","heritage","architecture"],"open":"07:00","close":"19:00","duration":60,"cost":0,"rating":4.4,"mainstream":false},
+ {"id":"manek_chowk","name":"Manek Chowk Night Food Market","lat":23.0267,"lon":72.5885,"tags":["food","nightlife","street food","local"],"open":"20:00","close":"23:59","duration":90,"cost":300,"rating":4.5,"mainstream":false}
+]
